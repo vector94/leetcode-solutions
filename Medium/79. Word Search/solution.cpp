@@ -1,45 +1,24 @@
 class Solution {
 public:
+    
     bool exist(vector<vector<char>>& board, string word) {
-        int m = board.size();
-        int n = board[0].size();
-        
-        vector<vector<bool> > mark(m, vector<bool> (n, false));
-        
-        for (int i = 0; i < m; i++){
-            for (int j = 0; j < n; j++){
-                if (board[i][j] == word[0]){
-                    mark[i][j] = true;
-                    bool isFound = dfs(i, j, 1, board, word, mark);
-                    mark[i][j] = false;
-                    if (isFound)    return true;
-                }
-            }
-        }
-
+        for (unsigned int i = 0; i < board.size(); i++) 
+            for (unsigned int j = 0; j < board[0].size(); j++) 
+                if (dfs(board, i, j, word))
+                    return true;
         return false;
     }
-    
-    
-private:
-    bool dfs(int i, int j, int k, vector<vector<char>> &board, string word, vector<vector<bool> > &mark){
-        if (k == word.size())   return true;
-        
-        int dy[] = {-1, 0, 1, 0};
-        int dx[] = {0, -1, 0, 1};
-        
-        bool isFound = false;
-        
-        for (int l = 0; l < 4; l++){
-            int ny = i + dy[l];
-            int nx = j + dx[l];
-            
-            if (ny >= 0 && ny < board.size() && nx >= 0 && nx < board[0].size() && board[ny][nx] == word[k] && !mark[ny][nx]){
-                mark[ny][nx] = true;
-                isFound |= dfs(ny, nx, k + 1, board, word, mark);
-                mark[ny][nx] = false;
-            }
-        }
-        return isFound;
+
+    bool dfs(vector<vector<char>>& board, int i, int j, string& word) {
+        if (!word.size())
+            return true;
+        if (i<0 || i>=board.size() || j<0 || j>=board[0].size() || board[i][j] != word[0])  
+            return false;
+        char c = board[i][j];
+        board[i][j] = '*';
+        string s = word.substr(1);
+        bool ret = dfs(board, i-1, j, s) || dfs(board, i+1, j, s) || dfs(board, i, j-1, s) || dfs(board, i, j+1, s);
+        board[i][j] = c;
+        return ret;
     }
 };

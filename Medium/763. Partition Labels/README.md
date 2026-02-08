@@ -14,9 +14,9 @@
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 21, 2022
+**Submitted:** February 07, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/partition-labels/submissions/664443269/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/partition-labels/submissions/636512761/)
 
 ---
 

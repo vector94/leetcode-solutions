@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 29 ms (beats 5.5%)
+**Runtime:** 8 ms (beats 32.8%)
 
-**Memory:** 10.5 MB (beats 100.0%)
+**Memory:** 10.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 21, 2022
+**Submitted:** November 28, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/646066935/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/593666068/)
 
 ---
 

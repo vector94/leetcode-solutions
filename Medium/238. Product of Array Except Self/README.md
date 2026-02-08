@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 14 ms (beats 5.4%)
+**Runtime:** 40 ms (beats 5.4%)
 
-**Memory:** 26.3 MB (beats 100.0%)
+**Memory:** 24 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 15, 2024
+**Submitted:** November 27, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/product-of-array-except-self/submissions/1204034926/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/product-of-array-except-self/submissions/593215959/)
 
 ---
 

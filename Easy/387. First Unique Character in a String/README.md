@@ -6,17 +6,17 @@
 
 **Topics:** Hash Table, String, Queue, Counting
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 65 ms (beats 5.1%)
+**Runtime:** 24 ms (beats 13.5%)
 
-**Memory:** 45.7 MB (beats 100.0%)
+**Memory:** 10.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 05, 2024
+**Submitted:** November 16, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1166922730/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/587841838/)
 
 ---
 

@@ -6,17 +6,17 @@
 
 **Topics:** String, Stack
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 130 ms (beats 5.2%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 36.5 MB (beats 100.0%)
+**Memory:** 6.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 13, 2022
+**Submitted:** February 09, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/valid-parentheses/submissions/659190808/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/valid-parentheses/submissions/453865638/)
 
 ---
 

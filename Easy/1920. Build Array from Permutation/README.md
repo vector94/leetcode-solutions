@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 2 ms (beats 14.3%)
+**Runtime:** 16 ms (beats 1.1%)
 
-**Memory:** 20.9 MB (beats 17.1%)
+**Memory:** 16.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 06, 2025
+**Submitted:** July 09, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/build-array-from-permutation/submissions/1626597647/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/build-array-from-permutation/submissions/519947768/)
 
 ---
 

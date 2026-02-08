@@ -1,48 +1,57 @@
 class Solution {
 public:
-    bool isValidSudoku(vector<vector<char>>& board) {
-        unordered_map<char, bool> hashMap;
-
+    bool isValidSudoku(vector<vector<char>>& grid) {
+        bool ret = true;
         for (int i = 0; i < 9; i++){
-            hashMap.clear();
+            set<int> st;
             for (int j = 0; j < 9; j++){
-                if (board[i][j] == '.') continue;
-                if (hashMap[board[i][j]]){
-                    return false;
-                }
-
-                hashMap[board[i][j]] = true;
-            }
-        }
-
-        for (int j = 0; j < 9; j++){
-            hashMap.clear();
-            for (int i = 0; i < 9; i++){
-                if (board[i][j] == '.') continue;
-                if (hashMap[board[i][j]]){
-                    return false;
-                }
-
-                hashMap[board[i][j]] = true;
-            }
-        }
-
-        for (int i = 0; i < 9; i += 3){
-            for (int j = 0; j < 9; j += 3){
-                hashMap.clear();
-
-                for (int p = i; p < i + 3; p++){
-                    for (int q = j; q < j + 3; q++){
-                        if (board[p][q] == '.') continue;
-                        if (hashMap[board[p][q]]){
-                            return false;
-                        }
-                        hashMap[board[p][q]]= true;
+                if (grid[i][j] != '.'){
+                    int x = grid[i][j] -'0';
+                    if (st.find(x) != st.end()){
+                        ret = false;
+                        break;
+                    }
+                    else{
+                        st.insert(x);
                     }
                 }
             }
         }
-
-        return true;
+        for (int j = 0; j < 9; j++){
+            set<int> st;
+            for (int i = 0; i < 9; i++){
+                if (grid[i][j] != '.'){
+                    int x = grid[i][j] -'0';
+                    if (st.find(x) != st.end()){
+                        ret = false;
+                        break;
+                    }
+                    else{
+                        st.insert(x);
+                    }
+                }
+            }
+        }
+        for (int i = 0; i < 9; i += 3){
+            for (int j = 0; j < 9; j += 3){
+                set<int> st;
+                for (int k = i, cnt1 = 0; cnt1 < 3; k++, cnt1++){
+                    for (int l = j, cnt2 = 0; cnt2 < 3; l++, cnt2++){
+                        if (grid[k][l] != '.'){
+                            int x = grid[k][l] - '0';
+                            if (st.find(x) != st.end()){
+                                //cout << st.size() << " " << grid[k][l] << " " << x << endl;
+                                ret = false;
+                                break;
+                            }
+                            else{
+                                st.insert(x);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        return ret;
     }
 };

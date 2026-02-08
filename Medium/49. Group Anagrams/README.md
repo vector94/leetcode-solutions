@@ -6,17 +6,17 @@
 
 **Topics:** Array, Hash Table, String, Sorting
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 164 ms (beats 5.0%)
+**Runtime:** 32 ms (beats 21.5%)
 
-**Memory:** 86.5 MB (beats 5.4%)
+**Memory:** 20.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 07, 2024
+**Submitted:** December 12, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/group-anagrams/submissions/1168322635/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/group-anagrams/submissions/600728187/)
 
 ---
 

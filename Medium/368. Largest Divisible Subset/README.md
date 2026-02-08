@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 95 ms (beats 5.0%)
+**Runtime:** 36 ms (beats 8.6%)
 
-**Memory:** 67.2 MB (beats 5.4%)
+**Memory:** 8.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 06, 2025
+**Submitted:** November 15, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/largest-divisible-subset/submissions/1598022429/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/largest-divisible-subset/submissions/587397179/)
 
 ---
 

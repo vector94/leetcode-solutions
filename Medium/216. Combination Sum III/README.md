@@ -14,9 +14,9 @@
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 10, 2022
+**Submitted:** November 04, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/combination-sum-iii/submissions/696537054/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/combination-sum-iii/submissions/581783871/)
 
 ---
 

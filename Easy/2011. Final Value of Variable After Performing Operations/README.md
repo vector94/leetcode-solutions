@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 8 ms (beats 1.1%)
 
-**Memory:** 17.7 MB (beats 42.5%)
+**Memory:** 14 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 20, 2025
+**Submitted:** December 20, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/1806710562/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/604258478/)
 
 ---
 

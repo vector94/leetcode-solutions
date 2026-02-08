@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 28 ms (beats 3.2%)
 
-**Memory:** 50.4 MB (beats 5.1%)
+**Memory:** 36.2 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 18, 2025
+**Submitted:** July 31, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/max-consecutive-ones/submissions/1832983164/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/max-consecutive-ones/submissions/530917468/)
 
 ---
 

@@ -10,13 +10,13 @@
 
 **Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 14.8 MB (beats 100.0%)
+**Memory:** 13.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 14, 2024
+**Submitted:** November 04, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/sum-of-left-leaves/submissions/1231775542/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sum-of-left-leaves/submissions/581803683/)
 
 ---
 

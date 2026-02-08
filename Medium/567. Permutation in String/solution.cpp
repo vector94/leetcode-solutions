@@ -1,21 +1,42 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        if (s2.size() < s1.size())  return false;
         
-        vector<int> goal(26, 0), have(26, 0);
-                
-        for (int i = 0; i < s1.size(); i++){
-            goal[s1[i] - 'a']++;
-            have[s2[i] - 'a']++;
+        unordered_map<char, int> hashMap1, hashMap2;
+        
+        for (char ch : s1){
+            hashMap1[ch]++;
         }
-        if (goal == have)   return true;
         
-        for (int i = s1.size(); i < s2.size(); i++){
-            have[s2[i - s1.size()] - 'a']--;
-            have[s2[i] - 'a']++;
+        int left, right;
+        left = right = 0;
+        
+        while (right < s2.size()){
             
-            if (goal == have)   return true;
+            cout << left << " " << right << endl;
+            
+            char cur = s2[right];
+            
+            if (hashMap1[cur] == 0){
+                while (left < right){
+                    hashMap2[s2[left]]--;
+                    left++;
+                }
+                left++;
+                right++;
+            }
+            
+            else if (hashMap1[cur] > hashMap2[cur]){
+                if (right - left + 1 == s1.size())  return true;
+                
+                hashMap2[cur]++;
+                right++;
+            }
+            
+            else{
+                hashMap2[s2[left]]--;
+                left++;
+            }
         }
         
         return false;

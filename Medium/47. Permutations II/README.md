@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 9 ms (beats 27.6%)
+**Runtime:** 4 ms (beats 50.2%)
 
 **Memory:** 8.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 12, 2022
+**Submitted:** November 05, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/permutations-ii/submissions/698081908/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/permutations-ii/submissions/582299677/)
 
 ---
 

@@ -11,24 +11,22 @@
  */
 class Solution {
 public:
-
-    bool hasPathSumHelper(TreeNode* root, int targetSum, int curSum){
+    bool solve(TreeNode *root, int targetSum, int curSum = 0){
+        curSum += root -> val;
         if (root -> left == NULL && root -> right == NULL){
-            if (curSum + root -> val == targetSum)    return true;
-            return false;
+            return curSum == targetSum;
         }
         bool ret = false;
         if (root -> left){
-            ret |= hasPathSumHelper(root -> left, targetSum, curSum + root -> val);
+            ret |= solve(root -> left, targetSum, curSum);
         }
         if (root -> right){
-            ret |= hasPathSumHelper(root -> right, targetSum, curSum + root -> val);
+            ret |= solve(root -> right, targetSum, curSum);
         }
         return ret;
     }
-
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if (root == NULL)   return false;
-        return hasPathSumHelper(root, targetSum, 0);
+        if (root == NULL)   return 0;
+        return solve(root, targetSum);
     }
 };

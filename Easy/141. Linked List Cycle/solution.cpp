@@ -12,7 +12,7 @@ public:
         if (head == NULL)   return false;
         ListNode *walker = head;
         ListNode *runner = head;
-        while (runner && runner -> next){
+        while (runner -> next && runner -> next -> next){
             walker = walker -> next;
             runner = runner -> next -> next;
             if (walker == runner){

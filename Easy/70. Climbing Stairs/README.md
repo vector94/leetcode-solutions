@@ -10,13 +10,13 @@
 
 **Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 6 MB (beats 100.0%)
+**Memory:** 5.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 12, 2022
+**Submitted:** February 10, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/858414051/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/454314547/)
 
 ---
 

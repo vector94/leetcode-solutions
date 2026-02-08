@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 45 ms (beats 68.1%)
+**Runtime:** 85 ms (beats 9.9%)
 
-**Memory:** 19.5 MB (beats 82.4%)
+**Memory:** 10 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 11, 2024
+**Submitted:** January 08, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/cherry-pickup-ii/submissions/1172379666/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/cherry-pickup-ii/submissions/615289036/)
 
 ---
 

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 4 ms (beats 8.2%)
+**Runtime:** 3 ms (beats 19.1%)
 
-**Memory:** 9.3 MB (beats 100.0%)
+**Memory:** 7.6 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 09, 2024
+**Submitted:** November 14, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1228059277/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/586794092/)
 
 ---
 

@@ -2,15 +2,15 @@ class Solution {
 public:
     int fourSumCount(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3, vector<int>& nums4) {
         unordered_map<int, int> hashMap;
-        for (int n1 : nums1){
-            for (int n2 : nums2){
-                hashMap[n1 + n2]++;
+        for (int x : nums1){
+            for (int y : nums2){
+                hashMap[x + y]++;
             }
         }
         int result = 0;
-        for (int n3 : nums3){
-            for (int n4 : nums4){
-                result += hashMap[-(n3 + n4)];
+        for (int x : nums3){
+            for (int y : nums4){
+                result += hashMap[-(x + y)];
             }
         }
         return result;

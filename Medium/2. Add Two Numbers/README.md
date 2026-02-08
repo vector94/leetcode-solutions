@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 35 ms (beats 7.5%)
+**Runtime:** 16 ms (beats 7.5%)
 
-**Memory:** 71.5 MB (beats 100.0%)
+**Memory:** 71.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 10, 2022
+**Submitted:** February 07, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/add-two-numbers/submissions/657289777/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/add-two-numbers/submissions/453088933/)
 
 ---
 

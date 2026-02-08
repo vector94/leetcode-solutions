@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 7 ms (beats 5.8%)
+**Runtime:** 9 ms (beats 5.8%)
 
-**Memory:** 7.8 MB (beats 100.0%)
+**Memory:** 7.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 01, 2022
+**Submitted:** July 25, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/counting-bits/submissions/650904430/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/counting-bits/submissions/527842742/)
 
 ---
 

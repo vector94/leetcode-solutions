@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 21 ms (beats 3.4%)
+**Runtime:** 7 ms (beats 3.4%)
 
-**Memory:** 16.3 MB (beats 100.0%)
+**Memory:** 16.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 02, 2022
+**Submitted:** July 31, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/sort-array-by-parity/submissions/691483517/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sort-array-by-parity/submissions/531071759/)
 
 ---
 

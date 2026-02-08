@@ -6,17 +6,17 @@
 
 **Topics:** Enumeration
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 67 ms (beats 0.0%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 38 MB (beats 100.0%)
+**Memory:** 6.3 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 02, 2024
+**Submitted:** January 23, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/sequential-digits/submissions/1163546156/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sequential-digits/submissions/625667893/)
 
 ---
 

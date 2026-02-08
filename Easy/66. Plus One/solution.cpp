@@ -1,28 +1,24 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        stack<int> myStack;
-        int curSum = digits.back() + 1;
-        myStack.push(curSum % 10);
-        curSum /= 10;
-
-        for (int i = digits.size() - 2; i >= 0; i--){
-            curSum += digits[i];
-            myStack.push(curSum % 10);
-            curSum /= 10;
+        vector<int> ret;
+        int carry = 0;
+        for (int i = digits.size() - 1; i >= 0; i--){
+            if (i == digits.size() - 1){
+                int sum = digits[i] + 1;
+                ret.push_back(sum % 10);
+                carry = sum / 10;
+            }
+            else{
+                int sum = digits[i] + carry;
+                ret.push_back(sum % 10);
+                carry = sum / 10;
+            }
         }
-        
-        if (curSum > 0){
-            myStack.push(curSum);
+        if (carry != 0){
+            ret.push_back(carry);
         }
-
-        vector<int> result;
-
-        while (!myStack.empty()){
-            result.push_back(myStack.top());
-            myStack.pop();
-        }
-
-        return result;
+        reverse(ret.begin(), ret.end());
+        return ret;
     }
 };

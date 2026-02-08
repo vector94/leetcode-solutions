@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 24 ms (beats 97.5%)
+**Runtime:** 463 ms (beats 5.0%)
 
-**Memory:** 14.6 MB (beats 78.6%)
+**Memory:** 140 MB (beats 10.5%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 07, 2025
+**Submitted:** December 12, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/submissions/1599437577/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/submissions/600535347/)
 
 ---
 

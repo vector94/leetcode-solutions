@@ -8,15 +8,15 @@
 
 **Language:** C#
 
-**Runtime:** 66 ms (beats 1.3%)
+**Runtime:** 112 ms (beats 1.3%)
 
-**Memory:** 42.8 MB (beats 100.0%)
+**Memory:** 39.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 29, 2024
+**Submitted:** November 19, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1159713495/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/submissions/589477359/)
 
 ---
 

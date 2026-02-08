@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 349 ms (beats 5.1%)
+**Runtime:** 20 ms (beats 6.7%)
 
-**Memory:** 48.3 MB (beats 5.0%)
+**Memory:** 14.2 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 06, 2022
+**Submitted:** December 12, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/merge-intervals/submissions/816228474/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/merge-intervals/submissions/600731799/)
 
 ---
 

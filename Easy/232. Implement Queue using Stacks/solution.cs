@@ -1,8 +1,14 @@
 public class MyQueue {
-
-    private Stack<int> stack1;
-    private Stack<int> stack2;
-
+    
+    Stack<int> stack1;
+    Stack<int> stack2;
+    
+    public void moveStack(){
+        while (stack1.Count > 0){
+            stack2.Push(stack1.Pop());
+        }
+    }
+    
     public MyQueue() {
         stack1 = new Stack<int>();
         stack2 = new Stack<int>();
@@ -13,30 +19,17 @@ public class MyQueue {
     }
     
     public int Pop() {
-        if (stack2.Count == 0){
-            MoveStack();
-        }
+        if (stack2.Count == 0)  moveStack();
         return stack2.Pop();
     }
     
     public int Peek() {
-        if (stack2.Count == 0){
-            MoveStack();
-        }
+        if (stack2.Count == 0)  moveStack();
         return stack2.Peek();
     }
     
     public bool Empty() {
-        if (stack2.Count == 0){
-            MoveStack();
-        }
-        return (stack2.Count == 0);
-    }
-
-    private void MoveStack(){
-        while (stack1.Count > 0){
-            stack2.Push(stack1.Pop());
-        }
+        return (stack1.Count == 0 && stack2.Count == 0);
     }
 }
 

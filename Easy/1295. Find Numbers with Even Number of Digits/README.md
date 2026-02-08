@@ -10,13 +10,13 @@
 
 **Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 13.3 MB (beats 87.2%)
+**Memory:** 9.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 30, 2025
+**Submitted:** July 31, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1621759534/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/530918685/)
 
 ---
 

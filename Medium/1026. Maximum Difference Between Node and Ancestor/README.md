@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 8 ms (beats 17.7%)
+**Runtime:** 12 ms (beats 17.2%)
 
-**Memory:** 9.9 MB (beats 100.0%)
+**Memory:** 13.7 MB (beats 30.8%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 09, 2022
+**Submitted:** December 31, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/submissions/857124211/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/submissions/610160918/)
 
 ---
 

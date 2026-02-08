@@ -10,15 +10,15 @@
  */
 class Solution {
 public:
-    ListNode* reverseListHelper(ListNode* preNode, ListNode* curNode){
-        if (curNode == NULL)    return preNode;
-        ListNode* nextNode = curNode -> next;
-        curNode -> next = preNode;
-        
-        return reverseListHelper(curNode, nextNode);
-    }
-    
     ListNode* reverseList(ListNode* head) {
-        return reverseListHelper(NULL, head);
+        ListNode* preNode = NULL;
+        int cnt = 0;
+        while (head){
+            ListNode* nextNode = head -> next;
+            head -> next = preNode;
+            preNode = head;
+            head = nextNode;
+        }
+        return  preNode;
     }
 };

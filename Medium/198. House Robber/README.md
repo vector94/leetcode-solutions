@@ -6,17 +6,17 @@
 
 **Topics:** Array, Dynamic Programming
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 68 ms (beats 1.9%)
+**Runtime:** 4 ms (beats 0.8%)
 
-**Memory:** 48.5 MB (beats 5.5%)
+**Memory:** 7.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 23, 2024
+**Submitted:** November 22, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/house-robber/submissions/1154853405/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/house-robber/submissions/590991952/)
 
 ---
 

@@ -1,29 +1,28 @@
 class Solution {
 public:
     
-    void combinationSumHelper(int index, int need, vector<int> &candidates, vector<int> &v, vector<vector<int> > &result){
-        if (need == 0){
+    void backtrack(int idx, int target, vector<int> &candidates, vector<int> &v, vector<vector<int> > &result){
+        if (target == 0){
             result.push_back(v);
             return;
         }
-        if (index == candidates.size() || candidates[index] > need){
+        else if (idx == candidates.size()){
             return;
         }
-        
-        v.push_back(candidates[index]);
-        combinationSumHelper(index, need - candidates[index], candidates, v, result);
-        v.pop_back();
-        
-        combinationSumHelper(index + 1, need, candidates, v, result);
+        backtrack(idx + 1, target, candidates, v, result);
+        if (target >= candidates[idx]){
+            v.push_back(candidates[idx]);
+            backtrack(idx, target - candidates[idx], candidates, v, result);
+            v.pop_back();
+        }
     }
     
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> v;
         vector<vector<int> > result;
+        vector<int> v;
         
-        sort(candidates.begin(), candidates.end());
-        combinationSumHelper(0, target, candidates, v, result);
-        
+        backtrack(0, target, candidates, v, result);
+            
         return result;
     }
 };

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 16 ms (beats 0.2%)
+**Runtime:** 8 ms (beats 0.2%)
 
-**Memory:** 13.6 MB (beats 100.0%)
+**Memory:** 13.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 12, 2022
+**Submitted:** November 02, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/639833520/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/580832468/)
 
 ---
 

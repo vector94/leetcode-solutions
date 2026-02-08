@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 4 ms (beats 0.0%)
 
 **Memory:** 7.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 05, 2022
+**Submitted:** October 21, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/submissions/854760359/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/submissions/574598359/)
 
 ---
 

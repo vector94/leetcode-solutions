@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 160 ms (beats 12.6%)
+**Runtime:** 1904 ms (beats 5.0%)
 
-**Memory:** 20 MB (beats 100.0%)
+**Memory:** 378.4 MB (beats 5.8%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 19, 2022
+**Submitted:** July 23, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/3sum/submissions/644532670/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/3sum/submissions/526849127/)
 
 ---
 

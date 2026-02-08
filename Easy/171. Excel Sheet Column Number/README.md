@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 3 ms (beats 6.6%)
+**Runtime:** 4 ms (beats 2.8%)
 
-**Memory:** 5.9 MB (beats 100.0%)
+**Memory:** 5.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 22, 2022
+**Submitted:** February 11, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/excel-sheet-column-number/submissions/646384776/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/excel-sheet-column-number/submissions/454716381/)
 
 ---
 

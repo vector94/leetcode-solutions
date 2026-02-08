@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 59 ms (beats 5.2%)
+**Runtime:** 44 ms (beats 5.2%)
 
-**Memory:** 34.3 MB (beats 99.9%)
+**Memory:** 34.1 MB (beats 99.9%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 18, 2022
+**Submitted:** February 09, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/683059834/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/454007332/)
 
 ---
 

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 3 ms (beats 40.6%)
+**Runtime:** 12 ms (beats 7.1%)
 
-**Memory:** 9.5 MB (beats 27.6%)
+**Memory:** 7.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 02, 2024
+**Submitted:** August 03, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/isomorphic-strings/submissions/1221185186/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/isomorphic-strings/submissions/532723532/)
 
 ---
 

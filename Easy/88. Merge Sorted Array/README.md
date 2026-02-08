@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 3 ms (beats 2.8%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 9.1 MB (beats 99.9%)
+**Memory:** 8.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 06, 2022
+**Submitted:** February 10, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/816450033/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/454318863/)
 
 ---
 

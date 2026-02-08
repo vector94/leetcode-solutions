@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 16 ms (beats 5.3%)
 
-**Memory:** 23 MB (beats 82.2%)
+**Memory:** 20.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 08, 2026
+**Submitted:** February 10, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/balanced-binary-tree/submissions/1912245198/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/balanced-binary-tree/submissions/454356610/)
 
 ---
 

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 156 ms (beats 3.8%)
+**Runtime:** 120 ms (beats 3.8%)
 
-**Memory:** 64.7 MB (beats 99.8%)
+**Memory:** 64.7 MB (beats 99.4%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 07, 2022
+**Submitted:** February 09, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/range-sum-of-bst/submissions/855870966/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/range-sum-of-bst/submissions/453901205/)
 
 ---
 

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 4 ms (beats 73.3%)
+**Runtime:** 456 ms (beats 5.2%)
 
-**Memory:** 127.4 MB (beats 39.7%)
+**Memory:** 123.2 MB (beats 47.7%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 01, 2025
+**Submitted:** January 16, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/solving-questions-with-brainpower/submissions/1592575841/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/solving-questions-with-brainpower/submissions/620663698/)
 
 ---
 

@@ -1,25 +1,21 @@
 class Solution {
 public:
-    int minimumTotalHelper(int row, int col, const vector<vector<int>>& triangle, vector<vector<int>>& dp) {
-        if (row >= triangle.size()) return 0;
+    
+    int minimumTotalHelper(int row, int column, int n, vector<vector<int> > &triangle, vector<vector<int> > &dp){
+        if (row == n)   return 0;
+        if (dp[row][column] != -1)  return dp[row][column];
         
-        if (dp[row][col] != INT_MIN) return dp[row][col];
+        dp[row][column] = triangle[row][column] + min(minimumTotalHelper(row + 1, column, n, triangle, dp), 
+                                                     minimumTotalHelper(row + 1, column + 1, n, triangle, dp));
         
-        int result = triangle[row][col] + 
-                    min(minimumTotalHelper(row + 1, col, triangle, dp),
-                        minimumTotalHelper(row + 1, col + 1, triangle, dp));
-        
-        return dp[row][col] = result;
+        return dp[row][column];
     }
     
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
         
-        vector<vector<int>> dp(n);
-        for (int i = 0; i < n; i++) {
-            dp[i].assign(i + 1, INT_MIN);
-        }
+        vector<vector<int> > dp (n, vector<int> (n, -1));
         
-        return minimumTotalHelper(0, 0, triangle, dp);
+        return minimumTotalHelper(0, 0, n, triangle, dp);
     }
 };

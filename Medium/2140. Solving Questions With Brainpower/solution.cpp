@@ -1,19 +1,23 @@
 class Solution {
 public:
-    long long mostPoints(vector<vector<int>>& questions) {
-        int N = questions.size();
-        vector<long long> dp(N, -1);
-
-        return solve(0, questions, dp);
+    
+    long long helper(int index, vector<vector<int> > &questions, vector<long long> &dp){
+        if (index >= questions.size())  return 0;
+        
+        if (dp[index] != -1)    return dp[index];
+        
+        long long result = helper(index + 1, questions, dp);
+        result = max(result, questions[index][0] + helper(index + questions[index][1] + 1, questions, dp));
+        
+        return dp[index] = result;
     }
-
-    long long solve(int i, vector<vector<int>>& questions, vector<long long>& dp){
-        if (i >= questions.size())  return 0;
-        if (dp[i] != -1)    return dp[i];
-
-        long long maxPoints = questions[i][0] + solve(i + questions[i][1] + 1, questions, dp);
-        maxPoints = max(maxPoints, solve(i + 1, questions, dp));
-
-        return dp[i] = maxPoints;
+    
+    long long mostPoints(vector<vector<int>>& questions) {
+        
+        int n = questions.size();
+        vector<long long> dp(n, -1);
+        
+        return helper(0, questions, dp);
+        
     }
 };

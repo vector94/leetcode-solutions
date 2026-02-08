@@ -14,9 +14,9 @@
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 09, 2023
+**Submitted:** July 24, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/874447916/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/527401621/)
 
 ---
 

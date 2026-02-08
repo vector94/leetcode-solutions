@@ -13,22 +13,20 @@ public:
             count[i][0] = z;
             count[i][1] = o;
         }
-        int dp[2][105][105];
-        int flag = 1;
+        int dp[605][105][105];
         memset(dp, 0, sizeof(dp));
-        for (int i = 0; i < l; i++){
+        for (int i = 1; i <= l; i++){
             for (int j = 0; j <= m; j++){
                 for (int k = 0; k <= n; k++){
-                    if (count[i][0] <= j && count[i][1] <= k){
-                        dp[flag][j][k] = max(dp[flag ^ 1][j][k], dp[flag ^ 1][j - count[i][0]][k - count[i][1]] + 1);
+                    if (count[i - 1][0] <= j && count[i - 1][1] <=k){
+                        dp[i][j][k] = max(dp[i - 1][j][k], dp[i - 1][j - count[i - 1][0]][k - count[i - 1][1]] + 1);
                     }
                     else{
-                        dp[flag][j][k] = dp[flag ^ 1][j][k];
+                        dp[i][j][k] = dp[i - 1][j][k];
                     }
                 }
             }
-            flag ^= 1;
         }
-        return dp[flag ^ 1][m][n];
+        return dp[l][m][n];
     }
 };

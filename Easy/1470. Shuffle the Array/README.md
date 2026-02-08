@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 3 ms (beats 72.7%)
+**Runtime:** 16 ms (beats 17.1%)
 
-**Memory:** 13.5 MB (beats 17.0%)
+**Memory:** 9.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 18, 2025
+**Submitted:** February 07, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/shuffle-the-array/submissions/1832982201/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/shuffle-the-array/submissions/453051192/)
 
 ---
 

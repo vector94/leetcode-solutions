@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 4 ms (beats 18.6%)
 
-**Memory:** 9.2 MB (beats 34.6%)
+**Memory:** 7.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 05, 2025
+**Submitted:** November 07, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/1597042169/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/583318271/)
 
 ---
 

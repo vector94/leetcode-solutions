@@ -1,37 +1,47 @@
 class Solution {
 public:
-    string minWindow(string S, string T) {
-        string result;
-        if(S.empty() || T.empty())
-            return result;
-
-        unordered_map<char, int> map;
-        unordered_map<char, int> window;
-        for(int i = 0; i < T.length(); i++){
-            map[T[i]]++;
+    
+    bool check(vector<int> &have, vector<int> &need){
+        for (int i = 0; i < 100; i++){
+            if (have[i] < need[i]){
+                return false;
+            }
+        }
+        return true;
+    }
+    
+    string minWindow(string s, string t) {
+        vector<int> need(100, 0), have(100, 0);
+        
+        for (char ch : t){
+            need[ch - 'A']++;
         }
         
-        int minLength = INT_MAX;
-        int letterCounter = 0;
-        for(int slow = 0, fast = 0; fast < S.length(); fast++){
-            char c = S[fast];
-            if(map.find(c) != map.end()){
-                window[c]++;
-                if(window[c] <= map[c]){
-                    letterCounter++;
-                }
+        int left, right;
+        have[s[0] - 'A']++;
+        left = 0, right = 1;
+        
+        int minLength = s.size() + 1;
+        string result = "";
+        
+        while (true){
+            bool ok = check(have, need);
+            if (!ok && right == s.size()){
+                break;
             }
-            if(letterCounter >= T.length()){
-                while(map.find(S[slow]) == map.end() || window[S[slow]] > map[S[slow]]){
-                    window[S[slow]]--;
-                    slow++;
+            else if (ok){
+                int curLength = right - left;
+                if (minLength > curLength){
+                    minLength = curLength;
+                    result = s.substr(left, curLength);
                 }
-                if(fast - slow + 1 < minLength){
-                    minLength = fast - slow + 1;
-                    result = S.substr(slow, minLength);
-                }
+                have[s[left++] - 'A']--;
+            }
+            else{
+                have[s[right++] - 'A']++;
             }
         }
+        
         return result;
     }
 };

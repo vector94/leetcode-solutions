@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 59 ms (beats 0.6%)
+**Runtime:** 24 ms (beats 0.6%)
 
 **Memory:** 27.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 26, 2022
+**Submitted:** November 11, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/binary-search/submissions/667611258/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/binary-search/submissions/585427222/)
 
 ---
 

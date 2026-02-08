@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 4 ms (beats 22.3%)
+**Runtime:** 12 ms (beats 19.7%)
 
-**Memory:** 18.9 MB (beats 99.9%)
+**Memory:** 20.3 MB (beats 99.9%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 27, 2024
+**Submitted:** November 02, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1187813616/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/submissions/580761752/)
 
 ---
 

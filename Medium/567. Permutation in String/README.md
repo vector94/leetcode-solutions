@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 14 ms (beats 32.2%)
+**Runtime:** 80 ms (beats 28.0%)
 
-**Memory:** 7.3 MB (beats 100.0%)
+**Memory:** 7.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 11, 2022
+**Submitted:** November 16, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/permutation-in-string/submissions/638953717/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/permutation-in-string/submissions/587837319/)
 
 ---
 

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 10 ms (beats 4.1%)
 
-**Memory:** 13.5 MB (beats 8.9%)
+**Memory:** 9.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** September 25, 2025
+**Submitted:** November 22, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/triangle/submissions/1782200588/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/triangle/submissions/590994314/)
 
 ---
 

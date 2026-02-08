@@ -11,14 +11,36 @@
  */
 class Solution {
 public:
-    int maxAncestorDiff(TreeNode* root) {
-        if (root == NULL)   return 0;
-        return maxAncestorDiffHelper(root, root -> val, root -> val);
+    
+    pair<int, int> maxAncestorDiffHelper(TreeNode* curNode, int &result){
+        if (curNode -> left == NULL && curNode -> right == NULL)    return {curNode -> val, curNode -> val};
+        
+        pair<int, int> piiLeft, piiRight;
+        if (curNode -> right == NULL){
+            piiLeft = maxAncestorDiffHelper(curNode -> left, result);
+            piiRight = {curNode -> val, curNode -> val};
+        }
+        else if (curNode -> left == NULL){
+            piiLeft = {curNode -> val, curNode -> val};
+            piiRight = maxAncestorDiffHelper(curNode -> right, result);
+        }
+        else{
+            piiLeft = maxAncestorDiffHelper(curNode -> left, result);
+            piiRight = maxAncestorDiffHelper(curNode -> right, result);
+        }
+        
+        result = max({result, max(piiLeft.first, piiRight.first) - curNode -> val, curNode -> val - min(piiLeft.second, piiRight.second)});
+        
+        pair<int, int> piiRet = {max({piiLeft.first, piiRight.first, curNode -> val}), min({piiLeft.second, piiRight.second, curNode -> val})};
+        
+        return piiRet;
     }
-
-    int maxAncestorDiffHelper(TreeNode* root, int curMin, int curMax){
-        if (root == NULL)   return curMax - curMin;
-        return max(maxAncestorDiffHelper(root -> left, min(curMin, root -> val), max(curMax, root -> val)),
-                    maxAncestorDiffHelper(root -> right, min(curMin, root -> val), max(curMax, root -> val)));
+    
+    int maxAncestorDiff(TreeNode* root) {
+        int result = 0;
+        
+        maxAncestorDiffHelper(root, result);
+        
+        return result;
     }
 };

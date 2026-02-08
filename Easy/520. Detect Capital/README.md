@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 4 ms (beats 0.6%)
 
 **Memory:** 6.2 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 02, 2023
+**Submitted:** January 24, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/detect-capital/submissions/869392801/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/detect-capital/submissions/626404651/)
 
 ---
 

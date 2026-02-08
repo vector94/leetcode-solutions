@@ -10,13 +10,13 @@
 
 **Runtime:** 4 ms (beats 0.3%)
 
-**Memory:** 7.4 MB (beats 100.0%)
+**Memory:** 7.6 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 16, 2022
+**Submitted:** November 08, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/642245120/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/583980353/)
 
 ---
 

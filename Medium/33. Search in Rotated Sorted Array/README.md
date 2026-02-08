@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 4 ms (beats 0.9%)
 
-**Memory:** 11.1 MB (beats 100.0%)
+**Memory:** 11 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 12, 2022
+**Submitted:** November 02, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/639835365/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/580828190/)
 
 ---
 

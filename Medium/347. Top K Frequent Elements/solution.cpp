@@ -1,38 +1,34 @@
-
 class Solution {
-     struct Data{
-        int num, count;
-        Data(int num, int count): num(num), count(count){}
-    };
-
-    struct compareData{
-        bool operator ()(Data const& d1, Data const& d2){
-            return d1.count > d2.count;
-        }
-    };
-    priority_queue<Data, vector<Data>, compareData> myQueue;
-    
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int, int> myMap;
+        unordered_map<int, int> count;
+        
+        int n = nums.size();
+        vector<vector<int> > freqList(n + 1);
+        unordered_map<int, bool> hashMap;
+        
         for (int num : nums){
-            myMap[num]++;
+            count[num]++;
         }
         
-        for (auto it : myMap){
-            Data cur(it.first, it.second);
-            myQueue.push(cur);
-            if (myQueue.size() > k){
-                myQueue.pop();
+        for (int num : nums){
+            if (!hashMap[num]){
+                hashMap[num] = true;
+                freqList[count[num]].push_back(num);
             }
         }
         
         vector<int> result;
-        while (!myQueue.empty() > 0){
-            result.push_back(myQueue.top().num);
-            myQueue.pop();
+        for (int i = n; i >= 1; i--){
+            if (!freqList[i].empty()){
+                for (int num : freqList[i]){
+                    result.push_back(num);
+                    if (result.size() == k){
+                        return result;
+                    }
+                }
+            }
         }
-        
         return result;
     }
 };

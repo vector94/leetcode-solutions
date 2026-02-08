@@ -1,28 +1,42 @@
 class Solution {
 public:
+    
+    bool isEqual(vector<int> &a, vector<int> &b){
+        for (int i = 0; i < 26; i++){
+            if (a[i] != b[i])   return false;
+        }
+        return true;
+    }
+    
     vector<int> findAnagrams(string s, string p) {
-        vector<int> result;
-        if (s.size() < p.size())    return result;
         
-        vector<int> cntS(26, 0), cntP(26, 0);
+        if (p.size() > s.size())    return vector<int>();
+        
+        vector<int> pCnt(26, 0), sCnt(26, 0);
         
         for (char ch : p){
-            cntP[ch - 'a']++;
+            pCnt[ch - 'a']++;
         }
+           
+        vector<int> result;
         
-        for (int i = 0; i < p.size(); i++){
-            cntS[s[i] - 'a']++;
-        }
-        
-        for (int i = p.size(); i < s.size(); i++){
-            if (cntS == cntP){
-                result.push_back(i - p.size());
+        for (int i = 0; i < s.size(); i++){
+            if (i < p.size()){
+                sCnt[s[i] - 'a']++;
             }
-            cntS[s[i - p.size()] - 'a']--;
-            cntS[s[i] - 'a']++;
+            else{
+                if (isEqual(sCnt, pCnt)){
+                    result.push_back(i - p.size());
+                }
+                sCnt[s[i - p.size()] - 'a']--;
+                sCnt[s[i] - 'a']++;
+            }
         }
         
-        if (cntS == cntP)   result.push_back(s.size() - p.size());
+        if (isEqual(sCnt, pCnt)){
+            result.push_back(s.size() - p.size());
+        }
+        
         return result;
     }
 };

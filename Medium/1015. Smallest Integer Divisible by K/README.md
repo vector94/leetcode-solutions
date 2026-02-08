@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 3 ms (beats 25.4%)
 
-**Memory:** 7.7 MB (beats 80.3%)
+**Memory:** 5.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 25, 2025
+**Submitted:** December 30, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/submissions/1839280549/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/submissions/609558450/)
 
 ---
 

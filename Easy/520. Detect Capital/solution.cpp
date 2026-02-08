@@ -1,21 +1,16 @@
 class Solution {
 public:
-
-    int upperCount(string word){
-        int cnt = 0;
-        for (char ch : word){
-            if (isupper(ch)){
-                cnt++;
-            }
-        }
-        return cnt;
-    }
-
     bool detectCapitalUse(string word) {
-        int upperCnt = upperCount(word);
-        if (upperCnt == word.size() || upperCnt == 1 && isupper(word[0]) || upperCnt == 0){
+        int UpperCase = 0;
+        
+        for (int i = 0; i < word.size(); i++){
+            if (isupper(word[i]))   UpperCase++;
+        }
+        
+        if (UpperCase == 0 || (UpperCase == 1 && isupper(word[0])) || UpperCase == word.size()){
             return true;
         }
+        
         return false;
     }
 };

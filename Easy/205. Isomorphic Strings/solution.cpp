@@ -1,24 +1,34 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        map<char, char> myMap;
-        map<char, bool> mapped;
-        
+        map<char, char> mp1, mp2;
+        bool ret = true;
         for (int i = 0; i < s.size(); i++){
-            if (myMap.find(s[i]) == myMap.end()){
-                if (mapped[t[i]] == false){
-                    myMap[s[i]] = t[i];
-                    mapped[t[i]] = true;
-                }
-                else{
-                    return false;
+            if (mp1.find(s[i]) == mp1.end() && mp2.find(t[i]) == mp2.end()){
+                mp1[s[i]] = t[i];
+                mp2[t[i]] = s[i];
+            }
+            else if (mp1.find(s[i]) != mp1.end() && mp2.find(t[i]) != mp2.end()){
+                if (mp1[s[i]] != t[i] || mp2[t[i]] != s[i]){
+                    ret = false;
+                    break;
                 }
             }
-            else if (myMap[s[i]] != t[i]){
-                return false;
+            else if (mp1.find(s[i]) != mp1.end()){
+                if (mp1[s[i]] != t[i]){
+                    ret = false;
+                    break;
+                }
+                mp2[t[i]] = s[i];
+            }
+            else{
+                if (mp2[t[i]] != s[i]){
+                    ret = false;
+                    break;
+                }
+                mp1[s[i]] = t[i];
             }
         }
-    
-        return true;
+        return ret;
     }
 };

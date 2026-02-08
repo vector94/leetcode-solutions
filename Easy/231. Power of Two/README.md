@@ -6,17 +6,17 @@
 
 **Topics:** Math, Bit Manipulation, Recursion
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 39 ms (beats 1.2%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 28.6 MB (beats 100.0%)
+**Memory:** 5.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 19, 2024
+**Submitted:** November 23, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/power-of-two/submissions/1179416967/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/power-of-two/submissions/591266745/)
 
 ---
 

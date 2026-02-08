@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 30 ms (beats 16.6%)
+**Runtime:** 28 ms (beats 17.2%)
 
-**Memory:** 17.6 MB (beats 71.8%)
+**Memory:** 12.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 13, 2024
+**Submitted:** November 30, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/maximal-rectangle/submissions/1231292004/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/maximal-rectangle/submissions/594922923/)
 
 ---
 

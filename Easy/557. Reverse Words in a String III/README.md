@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 19 ms (beats 8.9%)
+**Runtime:** 16 ms (beats 9.2%)
 
-**Memory:** 9.7 MB (beats 100.0%)
+**Memory:** 9.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** September 22, 2022
+**Submitted:** November 14, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/806191012/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/586890780/)
 
 ---
 

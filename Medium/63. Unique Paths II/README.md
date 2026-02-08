@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 4 ms (beats 4.8%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 8 MB (beats 100.0%)
+**Memory:** 7.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 20, 2022
+**Submitted:** December 09, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/unique-paths-ii/submissions/703725639/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/unique-paths-ii/submissions/599271412/)
 
 ---
 

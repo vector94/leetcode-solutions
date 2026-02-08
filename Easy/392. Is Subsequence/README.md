@@ -14,9 +14,9 @@
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 02, 2022
+**Submitted:** December 09, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/is-subsequence/submissions/651583132/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/is-subsequence/submissions/599277213/)
 
 ---
 

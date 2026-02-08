@@ -10,13 +10,13 @@
 
 **Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 6.4 MB (beats 100.0%)
+**Memory:** 6.3 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 05, 2022
+**Submitted:** February 10, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/pascals-triangle/submissions/815690616/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/pascals-triangle/submissions/454383969/)
 
 ---
 

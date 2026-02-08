@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 45 ms (beats 0.1%)
+**Runtime:** 40 ms (beats 0.1%)
 
 **Memory:** 34.8 MB (beats 99.8%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 14, 2022
+**Submitted:** November 23, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/680492671/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/591272216/)
 
 ---
 

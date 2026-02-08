@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 91 ms (beats 5.2%)
+**Runtime:** 208 ms (beats 5.2%)
 
-**Memory:** 87.8 MB (beats 99.8%)
+**Memory:** 83.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 16, 2024
+**Submitted:** February 04, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/contiguous-array/submissions/1205734932/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/contiguous-array/submissions/634060336/)
 
 ---
 

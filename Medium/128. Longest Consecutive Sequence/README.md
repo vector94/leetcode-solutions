@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 510 ms (beats 5.0%)
+**Runtime:** 184 ms (beats 5.6%)
 
-**Memory:** 49.8 MB (beats 100.0%)
+**Memory:** 40.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 02, 2022
+**Submitted:** January 07, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/submissions/853240846/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/submissions/614744143/)
 
 ---
 

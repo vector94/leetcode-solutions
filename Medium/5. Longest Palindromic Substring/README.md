@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 54 ms (beats 45.0%)
+**Runtime:** 24 ms (beats 45.8%)
 
-**Memory:** 168.6 MB (beats 14.1%)
+**Memory:** 10.9 MB (beats 53.5%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 05, 2022
+**Submitted:** February 08, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/longest-palindromic-substring/submissions/854900736/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/longest-palindromic-substring/submissions/453503043/)
 
 ---
 

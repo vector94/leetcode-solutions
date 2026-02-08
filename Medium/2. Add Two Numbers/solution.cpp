@@ -18,9 +18,7 @@ public:
             int sum = l1 -> val + l2 -> val + carry;
             carry = sum / 10;
             if (head == NULL){
-                head = tail = new ListNode;
-                head -> val = sum % 10;
-                tail -> val = sum % 10;
+                head = tail = new ListNode(sum % 10);
             }
             else{
                 tail -> next = new ListNode(sum % 10);

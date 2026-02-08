@@ -1,40 +1,39 @@
 class Solution {
 public:
     
-    int Set(int mask, int bit){
-        return mask | (1 << bit);
+    int Set(int num, int bit){
+        return num | (1 << bit);
+    }
+    int Reset(int num, int bit){
+        return num & ~(1 << bit);
+    }
+    bool Check(int num, int bit){
+        return (bool) (num & (1 << bit));
     }
     
-    bool Check(int mask, int bit){
-        return (bool) (mask & (1 << bit));
-    }
-    
-    bool Reset(int mask, int bit){
-        return (mask & ~(1 << bit));
-    }
-    
-    void backtrack(int mask, vector<int> &nums, vector<int> &v, vector<vector<int> > &result){
-        if (__builtin_popcount(mask) == nums.size()){
-            result.push_back(v);
+    void backtrack(int mask, vector<int> &nums, vector<int> &p, vector<vector<int> > &result){
+ 
+        if (p.size() == nums.size()){
+            result.push_back(p);
             return;
         }
-        
         for (int i = 0; i < nums.size(); i++){
             if (i > 0 && nums[i] == nums[i - 1] && !Check(mask, i - 1) || Check(mask, i)){
                 continue;
             }
-            v.push_back(nums[i]);
-            backtrack(Set(mask, i), nums, v, result);
-            v.pop_back();
+            mask = Set(mask, i);
+            p.push_back(nums[i]);
+            backtrack(mask, nums, p, result);
+            p.pop_back();
+            mask = Reset(mask, i);
         }
     }
     
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int> > result;
-        vector<int> v;
+        vector<int> p;
         sort(nums.begin(), nums.end());
-        backtrack(0, nums, v, result);
-        
+        backtrack(0, nums, p, result);
         return result;
     }
 };

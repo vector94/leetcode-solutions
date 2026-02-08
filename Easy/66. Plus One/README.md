@@ -8,16 +8,16 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 4 ms (beats 0.6%)
 
-**Memory:** 11.5 MB (beats 52.4%)
+**Memory:** 8.9 MB (beats 99.9%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 01, 2026
+**Submitted:** February 09, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/plus-one/submissions/1871355578/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/plus-one/submissions/454063477/)
 
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-06*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*

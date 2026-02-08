@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 25 ms (beats 35.0%)
+**Runtime:** 13 ms (beats 35.0%)
 
-**Memory:** 7.6 MB (beats 100.0%)
+**Memory:** 7.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 13, 2022
+**Submitted:** December 29, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/821388418/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/609117038/)
 
 ---
 

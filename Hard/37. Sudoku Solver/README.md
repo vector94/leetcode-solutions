@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 131 ms (beats 86.9%)
+**Runtime:** 8 ms (beats 97.5%)
 
-**Memory:** 9 MB (beats 11.0%)
+**Memory:** 6.6 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** August 31, 2025
+**Submitted:** December 22, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/sudoku-solver/submissions/1754312257/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sudoku-solver/submissions/605568049/)
 
 ---
 

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 88 ms (beats 7.6%)
+**Runtime:** 20 ms (beats 7.6%)
 
-**Memory:** 59 MB (beats 100.0%)
+**Memory:** 17.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 21, 2022
+**Submitted:** February 12, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/container-with-most-water/submissions/645753285/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/container-with-most-water/submissions/455037313/)
 
 ---
 

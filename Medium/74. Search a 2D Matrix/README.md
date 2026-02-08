@@ -14,9 +14,9 @@
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 12, 2022
+**Submitted:** November 15, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/search-a-2d-matrix/submissions/639838060/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/search-a-2d-matrix/submissions/587350225/)
 
 ---
 

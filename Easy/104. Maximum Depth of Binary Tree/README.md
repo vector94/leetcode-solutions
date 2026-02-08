@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 24 ms (beats 0.3%)
+**Runtime:** 8 ms (beats 0.3%)
 
-**Memory:** 18.9 MB (beats 96.1%)
+**Memory:** 18.8 MB (beats 96.1%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 14, 2022
+**Submitted:** February 10, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/640901048/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/454330938/)
 
 ---
 

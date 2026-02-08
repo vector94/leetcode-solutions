@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 71 ms (beats 7.1%)
+**Runtime:** 40 ms (beats 12.3%)
 
 **Memory:** 12.6 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 21, 2022
+**Submitted:** December 14, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/number-of-islands/submissions/646005048/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/number-of-islands/submissions/601529206/)
 
 ---
 

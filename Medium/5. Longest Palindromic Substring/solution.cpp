@@ -1,22 +1,43 @@
 class Solution {
 public:
-    string getPalindrome(int left, int right, string s){
-        if (s[left] != s[right])    return "";
-        while (left >= 0 && right < s.size() && s[left] == s[right]){
-            left--;
-            right++;
-        }
-        return s.substr(left + 1, right - left - 1);
-    }
     string longestPalindrome(string s) {
-        string result = s.substr(0, 1);
-        for (int i = 0; i < s.size() - 1; i++){
-            string p1 = getPalindrome(i, i, s);
-            string p2 = getPalindrome(i, i + 1, s);
-            if (result.size() < max(p1.size(), p2.size())){
-                result = p1.size() > p2.size() ? p1 : p2;
+        string ret;
+        int mx_len = 0;
+        int len = s.size();
+        for (int i = 0; i < len; i++){
+            int cur = 1;
+            int idx = i;
+            for (int j = 1; i - j >= 0 && i + j < len; j++){
+                if (s[i - j] == s[i + j]){
+                    cur += 2;
+                    idx = i - j;
+                }
+                else{
+                    break;
+                }
+            }
+            if (cur > mx_len){
+                mx_len = cur;
+                ret = s.substr(idx, cur);
             }
         }
-        return result;
+        for (int i = 0; i < len; i++){
+            int cur = 0;
+            int idx;
+            for (int j = 0; i - j >= 0 && i + j + 1 < len; j++){
+                if (s[i - j] == s[i + j + 1]){
+                    cur += 2;
+                    idx = i - j;
+                }
+                else{
+                    break;
+                }
+            }
+            if (cur > mx_len){
+                mx_len = cur;
+                ret = s.substr(idx, cur);
+            }
+        }
+        return ret;
     }
 };

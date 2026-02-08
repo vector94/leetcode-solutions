@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 3 ms (beats 2.7%)
+**Runtime:** 4 ms (beats 1.3%)
 
-**Memory:** 8.4 MB (beats 99.9%)
+**Memory:** 8.3 MB (beats 99.9%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 05, 2022
+**Submitted:** December 12, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/sort-colors/submissions/815814979/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sort-colors/submissions/600746042/)
 
 ---
 

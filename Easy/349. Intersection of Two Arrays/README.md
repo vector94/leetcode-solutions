@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 2 ms (beats 41.8%)
+**Runtime:** 4 ms (beats 21.9%)
 
-**Memory:** 12.6 MB (beats 100.0%)
+**Memory:** 10.2 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 10, 2024
+**Submitted:** August 01, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/submissions/1199744990/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/submissions/531406753/)
 
 ---
 

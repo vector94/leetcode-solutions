@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 37 ms (beats 2.4%)
+**Runtime:** 20 ms (beats 2.4%)
 
-**Memory:** 23.2 MB (beats 100.0%)
+**Memory:** 23.3 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 01, 2022
+**Submitted:** November 14, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/reverse-string/submissions/671835138/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/reverse-string/submissions/586887810/)
 
 ---
 

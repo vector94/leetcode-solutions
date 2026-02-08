@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 3 ms (beats 12.6%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 9.8 MB (beats 77.0%)
+**Memory:** 7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** June 22, 2025
+**Submitted:** January 16, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/submissions/1672259663/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/submissions/620647050/)
 
 ---
 

@@ -6,17 +6,17 @@
 
 **Topics:** Array, Stack, Monotonic Stack
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 409 ms (beats 5.1%)
+**Runtime:** 128 ms (beats 5.7%)
 
-**Memory:** 79.2 MB (beats 5.3%)
+**Memory:** 88.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 31, 2024
+**Submitted:** November 13, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/daily-temperatures/submissions/1161643410/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/daily-temperatures/submissions/586442502/)
 
 ---
 

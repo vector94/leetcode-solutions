@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 187 ms (beats 6.3%)
+**Runtime:** 152 ms (beats 6.5%)
 
-**Memory:** 45.5 MB (beats 43.7%)
+**Memory:** 45.3 MB (beats 43.7%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 21, 2022
+**Submitted:** December 10, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/coin-change/submissions/704317039/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/coin-change/submissions/599650783/)
 
 ---
 

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 1035 ms (beats 6.8%)
+**Runtime:** 928 ms (beats 6.8%)
 
-**Memory:** 89.8 MB (beats 100.0%)
+**Memory:** 89.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 01, 2022
+**Submitted:** January 13, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/852851878/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/618743369/)
 
 ---
 

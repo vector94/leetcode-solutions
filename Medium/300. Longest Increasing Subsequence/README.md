@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 696 ms (beats 5.0%)
+**Runtime:** 8 ms (beats 76.3%)
 
-**Memory:** 291.4 MB (beats 32.3%)
+**Memory:** 10.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 05, 2024
+**Submitted:** December 14, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/submissions/1137541124/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/submissions/601535877/)
 
 ---
 

@@ -1,22 +1,28 @@
 class Solution {
 public:
-    bool wordPattern(string pattern, string s) {
-        unordered_map<string, char> wordToChar;
+    bool wordPattern(string pattern, string data) {
+        stringstream s(data);
+        string str;
+        
+        int n = pattern.size();
         vector<string> charToWord(26);
-        stringstream ss(s);
-        string word;
+        unordered_map<string, char> wordToChar;
+        
         int i = 0;
-        while (ss >> word){
+        while (getline(s, str, ' ')){
             if (i == pattern.size())    return false;
-            if (charToWord[pattern[i] - 'a'].size() == 0 && wordToChar.find(word) == wordToChar.end()){
-                charToWord[pattern[i] - 'a'] = word;
-                wordToChar[word] = pattern[i];
+            
+            int index = pattern[i] - 'a';
+            if (charToWord[index].size() == 0 && wordToChar.find(str) == wordToChar.end()){
+                charToWord[index] = str;
+                wordToChar[str] = pattern[i];
             }
-            else if (charToWord[pattern[i] - 'a'] != word || wordToChar[word] != pattern[i]){
-                return false;
+            else{
+                if (charToWord[index] != str || wordToChar[str] != pattern[i]) return false;
             }
             i++;
         }
+        
         return (i == pattern.size());
     }
 };

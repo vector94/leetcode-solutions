@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 4 ms (beats 1.4%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 6.6 MB (beats 100.0%)
+**Memory:** 6.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 09, 2022
+**Submitted:** August 04, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/696119890/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/533058199/)
 
 ---
 
