@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 333 ms (beats 5.3%)
+**Runtime:** 100 ms (beats 9.8%)
 
-**Memory:** 61.1 MB (beats 100.0%)
+**Memory:** 61.3 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 12, 2022
+**Submitted:** February 12, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/find-the-duplicate-number/submissions/820711232/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/find-the-duplicate-number/submissions/639618057/)
 
 ---
 

@@ -1,25 +1,15 @@
-/* Write your T-SQL query statement below */
-SELECT 
-product_id,
-'store1' AS store,
-store1 AS price
-FROM Products
-WHERE store1 IS NOT NULL
+select  product_id, 'store1' As store, store1 as price
+From    Products
+where   store1 is not null
 
-UNION
+Union
 
-SELECT 
-product_id,
-'store2' AS store,
-store2 AS price
-FROM Products
-WHERE store2 IS NOT NULL
+select  product_id, 'store2' As store, store2 as price
+From    Products
+where   store2 is not null
 
-UNION
+Union
 
-SELECT 
-product_id,
-'store3' AS store,
-store3 AS price
-FROM Products
-WHERE store3 IS NOT NULL
+select  product_id, 'store3' As store, store3 as price
+From    Products
+where   store3 is not null

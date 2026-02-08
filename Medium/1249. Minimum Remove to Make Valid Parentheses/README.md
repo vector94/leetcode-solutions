@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 21 ms (beats 6.1%)
+**Runtime:** 24 ms (beats 5.5%)
 
-**Memory:** 12.4 MB (beats 98.3%)
+**Memory:** 11 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 06, 2024
+**Submitted:** March 15, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/1224831248/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/660191029/)
 
 ---
 

@@ -6,17 +6,17 @@
 
 **Topics:** Array, Hash Table, Divide and Conquer, Sorting, Counting
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 117 ms (beats 5.2%)
+**Runtime:** 28 ms (beats 7.6%)
 
-**Memory:** 48.5 MB (beats 99.7%)
+**Memory:** 19.6 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 15, 2024
+**Submitted:** February 21, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/majority-element/submissions/1176180910/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/majority-element/submissions/645645278/)
 
 ---
 

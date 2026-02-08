@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 5 ms (beats 7.9%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 9.3 MB (beats 8.9%)
+**Memory:** 6.6 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 30, 2025
+**Submitted:** March 21, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/partition-labels/submissions/1590906158/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/partition-labels/submissions/664443269/)
 
 ---
 

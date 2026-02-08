@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 37 ms (beats 2.6%)
 
-**Memory:** 18.6 MB (beats 78.9%)
+**Memory:** 13.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 21, 2025
+**Submitted:** October 05, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/set-matrix-zeroes/submissions/1639843935/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/set-matrix-zeroes/submissions/815419310/)
 
 ---
 

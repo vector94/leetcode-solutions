@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 2 ms (beats 91.3%)
 
-**Memory:** 7.5 MB (beats 100.0%)
+**Memory:** 6.3 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 10, 2024
+**Submitted:** May 22, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/palindromic-substrings/submissions/1171618130/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/palindromic-substrings/submissions/704986859/)
 
 ---
 

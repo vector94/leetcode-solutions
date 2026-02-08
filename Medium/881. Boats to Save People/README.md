@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 51 ms (beats 5.8%)
+**Runtime:** 105 ms (beats 5.8%)
 
-**Memory:** 45.5 MB (beats 99.8%)
+**Memory:** 41.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 04, 2024
+**Submitted:** March 24, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/boats-to-save-people/submissions/1249214216/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/boats-to-save-people/submissions/666063344/)
 
 ---
 

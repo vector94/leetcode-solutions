@@ -10,13 +10,13 @@
 
 **Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 8 MB (beats 5.0%)
+**Memory:** 5.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 09, 2025
+**Submitted:** February 13, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/count-operations-to-obtain-zero/submissions/1824851512/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/count-operations-to-obtain-zero/submissions/640217603/)
 
 ---
 

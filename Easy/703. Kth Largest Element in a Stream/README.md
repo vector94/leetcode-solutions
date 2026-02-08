@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 45 ms (beats 5.7%)
+**Runtime:** 28 ms (beats 5.7%)
 
-**Memory:** 19.7 MB (beats 100.0%)
+**Memory:** 19.9 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 23, 2023
+**Submitted:** April 08, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/955493354/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/676425123/)
 
 ---
 

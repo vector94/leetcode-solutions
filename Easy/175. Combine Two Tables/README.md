@@ -8,15 +8,15 @@
 
 **Language:** MS SQL Server
 
-**Runtime:** 742 ms (beats 6.7%)
+**Runtime:** 823 ms (beats 5.8%)
 
 **Memory:** 0B (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 07, 2022
+**Submitted:** March 05, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/combine-two-tables/submissions/856125141/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/combine-two-tables/submissions/653512785/)
 
 ---
 

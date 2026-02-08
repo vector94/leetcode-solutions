@@ -1,31 +1,34 @@
 class Solution {
 public:
-    int dp[605][105][105];
     int findMaxForm(vector<string>& strs, int m, int n) {
-        memset(dp, -1, sizeof(dp));
-
-        return solve(0, 0, 0, strs, m, n);
-    }
-
-    int solve(int idx, int curM, int curN, vector<string>& strs, int m, int n){
-        if (idx == strs.size()) return 0;
-
-        if (dp[idx][curM][curN] != -1){
-            return dp[idx][curM][curN];
+        int count[605][2];
+        int l = strs.size();
+        for (int i = 0; i < l; i++){
+            int z, o;
+            z = o = 0;
+            for (auto ch : strs[i]){
+                if (ch == '1')  o++;
+                else    z++;
+            }
+            count[i][0] = z;
+            count[i][1] = o;
         }
-
-        int ret = solve(idx + 1, curM, curN, strs, m, n);
-
-        int one = 0;
-        for (char ch : strs[idx]){
-            if (ch == '1')  one++;
+        int dp[2][105][105];
+        int flag = 1;
+        memset(dp, 0, sizeof(dp));
+        for (int i = 0; i < l; i++){
+            for (int j = 0; j <= m; j++){
+                for (int k = 0; k <= n; k++){
+                    if (count[i][0] <= j && count[i][1] <= k){
+                        dp[flag][j][k] = max(dp[flag ^ 1][j][k], dp[flag ^ 1][j - count[i][0]][k - count[i][1]] + 1);
+                    }
+                    else{
+                        dp[flag][j][k] = dp[flag ^ 1][j][k];
+                    }
+                }
+            }
+            flag ^= 1;
         }
-        int zero = strs[idx].size() - one;
-
-        if (curM + zero <= m && curN + one <= n){
-            ret = max(ret, 1 + solve(idx + 1, curM + zero, curN + one, strs, m, n));
-        }
-
-        return dp[idx][curM][curN] = ret;
+        return dp[flag ^ 1][m][n];
     }
 };

@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 18 ms (beats 5.1%)
+**Runtime:** 27 ms (beats 5.1%)
 
-**Memory:** 15.3 MB (beats 100.0%)
+**Memory:** 13.5 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 22, 2023
+**Submitted:** April 09, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/top-k-frequent-elements/submissions/954797769/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/top-k-frequent-elements/submissions/676978174/)
 
 ---
 

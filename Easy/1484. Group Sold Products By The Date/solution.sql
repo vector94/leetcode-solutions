@@ -1,13 +1,12 @@
 /* Write your T-SQL query statement below */
-WITH CTE AS(
-    SELECT
-    DISTINCT *
-    FROM    Activities
+
+With no_duplicate As
+(
+    Select  Distinct *
+    From    Activities
 )
 
-SELECT
-sell_date,
-COUNT(product) AS num_sold,
-STRING_AGG(product, ',') WITHIN GROUP (ORDER BY product) AS products
-FROM        CTE
-GROUP BY    sell_date
+Select      sell_date, Count(Distinct product) as num_sold, STRING_AGG(product, ',') WITHIN GROUP (ORDER BY product) as products
+From        no_duplicate
+Group By    sell_date
+Order By    sell_date

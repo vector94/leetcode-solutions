@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 181 ms (beats 5.5%)
 
-**Memory:** 115.2 MB (beats 100.0%)
+**Memory:** 111.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 03, 2025
+**Submitted:** March 21, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/submissions/1624117582/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/submissions/664442698/)
 
 ---
 

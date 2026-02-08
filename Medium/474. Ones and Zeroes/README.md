@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 111 ms (beats 54.9%)
+**Runtime:** 117 ms (beats 53.8%)
 
-**Memory:** 41.4 MB (beats 43.3%)
+**Memory:** 8.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 11, 2025
+**Submitted:** May 23, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/ones-and-zeroes/submissions/1826599832/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/ones-and-zeroes/submissions/705326317/)
 
 ---
 

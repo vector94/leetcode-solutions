@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 17 ms (beats 24.2%)
+**Runtime:** 135 ms (beats 6.4%)
 
-**Memory:** 26.1 MB (beats 21.7%)
+**Memory:** 21.6 MB (beats 99.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** October 05, 2025
+**Submitted:** August 31, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1792487827/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/787755811/)
 
 ---
 

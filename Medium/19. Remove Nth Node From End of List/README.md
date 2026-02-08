@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 3 ms (beats 1.6%)
+**Runtime:** 14 ms (beats 0.3%)
 
-**Memory:** 13.2 MB (beats 100.0%)
+**Memory:** 10.8 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 03, 2024
+**Submitted:** September 28, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1192275106/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/810344817/)
 
 ---
 

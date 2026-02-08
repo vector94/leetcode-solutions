@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 28 ms (beats 24.3%)
+**Runtime:** 59 ms (beats 5.4%)
 
-**Memory:** 31.1 MB (beats 8.7%)
+**Memory:** 27.6 MB (beats 24.1%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** May 02, 2025
+**Submitted:** September 27, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/push-dominoes/submissions/1623637007/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/push-dominoes/submissions/809540285/)
 
 ---
 

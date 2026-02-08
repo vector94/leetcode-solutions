@@ -14,9 +14,9 @@
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 05, 2022
+**Submitted:** May 01, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/rearrange-products-table/submissions/854843520/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/rearrange-products-table/submissions/690817782/)
 
 ---
 

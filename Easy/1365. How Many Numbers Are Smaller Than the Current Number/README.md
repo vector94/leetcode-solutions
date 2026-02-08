@@ -6,17 +6,17 @@
 
 **Topics:** Array, Hash Table, Sorting, Counting Sort
 
-**Language:** C++
+**Language:** Python3
 
-**Runtime:** 4 ms (beats 59.3%)
+**Runtime:** 421 ms (beats 5.0%)
 
-**Memory:** 14.5 MB (beats 18.8%)
+**Memory:** 14 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 27, 2025
+**Submitted:** March 14, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1840880020/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/659526733/)
 
 ---
 

@@ -2,11 +2,9 @@
  Please write a DELETE statement and DO NOT write a SELECT statement.
  Write your T-SQL query statement below
  */
-
-
-DELETE    Person
-WHERE   id NOT IN   (
-                        SELECT      MIN(id)
-                        FROM        Person
-                        GROUP BY    email
+Delete  p1  
+From    Person p1
+Where   id Not In   (   Select min(id) 
+                        From Person
+                        Group by Person.email
                     )

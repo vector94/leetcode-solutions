@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 21 ms (beats 4.7%)
 
-**Memory:** 15.6 MB (beats 32.0%)
+**Memory:** 12 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 17, 2025
+**Submitted:** February 19, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/submissions/1609077656/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/submissions/644538578/)
 
 ---
 

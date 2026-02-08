@@ -1,20 +1,24 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int low = 0, mid = 0, high = nums.size()-1;
-        while(mid <= high){
-            if(nums[mid] == 0){
-                swap(nums[low], nums[mid]);
-                low++;
-                mid++;
+        int lo = 0;
+        int hi = nums.size() - 1;
+        int mid = 0;
+
+        while (mid <= hi){
+            if (nums[mid] == 0){
+                swap(nums[lo], nums[mid]);
+                lo++, mid++;
             }
-            else if(nums[mid] == 1){
+            else if (nums[mid] == 1){
                 mid++;
             }
             else{
-                swap(nums[mid], nums[high]);
-                high--;
+                swap(nums[mid], nums[hi]);
+                hi--;
             }
         }
     }
 };
+
+// Dutch National Flag Algorithm

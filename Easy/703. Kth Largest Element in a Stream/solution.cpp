@@ -4,10 +4,9 @@ class KthLargest {
 public:
     KthLargest(int k, vector<int>& nums) {
         this -> k = k;
-        for (int n : nums){
-            myQueue.push(n);
+        for (int num : nums){
+            myQueue.push(num);
         }
-        
         while (myQueue.size() > k){
             myQueue.pop();
         }
@@ -18,7 +17,6 @@ public:
         if (myQueue.size() > k){
             myQueue.pop();
         }
-
         return myQueue.top();
     }
 };

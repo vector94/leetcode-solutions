@@ -8,15 +8,15 @@
 
 **Language:** MS SQL Server
 
-**Runtime:** 542 ms (beats 6.8%)
+**Runtime:** 502 ms (beats 7.8%)
 
 **Memory:** 0B (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 03, 2022
+**Submitted:** August 03, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/swap-sex-of-employees/submissions/853870470/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/swap-sex-of-employees/submissions/763730957/)
 
 ---
 

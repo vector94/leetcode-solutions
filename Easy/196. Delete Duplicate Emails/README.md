@@ -8,15 +8,15 @@
 
 **Language:** MS SQL Server
 
-**Runtime:** 995 ms (beats 5.0%)
+**Runtime:** 958 ms (beats 5.0%)
 
 **Memory:** 0B (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 03, 2022
+**Submitted:** April 09, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/delete-duplicate-emails/submissions/853872751/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/delete-duplicate-emails/submissions/676985957/)
 
 ---
 
