@@ -10,13 +10,13 @@
 
 **Runtime:** 8 ms (beats 32.8%)
 
-**Memory:** 10.7 MB (beats 100.0%)
+**Memory:** 10.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
 **Submitted:** November 28, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/593666068/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/593666918/)
 
 ---
 

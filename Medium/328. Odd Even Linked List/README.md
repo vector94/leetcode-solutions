@@ -10,13 +10,13 @@
 
 **Runtime:** 12 ms (beats 1.2%)
 
-**Memory:** 10.5 MB (beats 100.0%)
+**Memory:** 10.4 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
 **Submitted:** December 02, 2021
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/odd-even-linked-list/submissions/595854265/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/odd-even-linked-list/submissions/595852031/)
 
 ---
 
