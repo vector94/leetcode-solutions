@@ -8,15 +8,15 @@
 
 **Language:** MS SQL Server
 
-**Runtime:** 426 ms (beats 58.5%)
+**Runtime:** 1242 ms (beats 5.0%)
 
 **Memory:** 0B (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 02, 2025
+**Submitted:** December 02, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/1593907561/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/853322425/)
 
 ---
 

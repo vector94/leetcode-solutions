@@ -6,15 +6,15 @@
 
 **Language:** JavaScript
 
-**Runtime:** 57 ms (beats 6.3%)
+**Runtime:** 75 ms (beats 6.3%)
 
-**Memory:** 48.8 MB (beats 100.0%)
+**Memory:** 42.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** March 05, 2024
+**Submitted:** January 03, 2024
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/create-hello-world-function/submissions/1194207383/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/create-hello-world-function/submissions/1135272080/)
 
 ---
 

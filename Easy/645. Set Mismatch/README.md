@@ -6,17 +6,17 @@
 
 **Topics:** Array, Hash Table, Bit Manipulation, Sorting
 
-**Language:** C++
+**Language:** C#
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 166 ms (beats 9.9%)
 
-**Memory:** 26.3 MB (beats 41.7%)
+**Memory:** 56.2 MB (beats 40.9%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 19, 2025
+**Submitted:** January 23, 2024
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/set-mismatch/submissions/1834150076/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/set-mismatch/submissions/1154829485/)
 
 ---
 

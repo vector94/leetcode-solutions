@@ -1,6 +1,4 @@
 /* Write your T-SQL query statement below */
-
-SELECT      T.id AS Id
-FROM        Weather T
-CROSS JOIN  Weather Y
-WHERE       DATEDIFF(day, Y.recordDate, T.recordDate) = 1 AND T.temperature > Y.temperature   
+SELECT      Weather.id AS Id
+FROM        Weather
+JOIN        Weather W ON DATEDIFF(day, W.recordDate, Weather.recordDate) = 1 AND Weather.temperature > W.temperature

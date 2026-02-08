@@ -8,16 +8,16 @@
 
 **Language:** C#
 
-**Runtime:** 11 ms (beats 73.3%)
+**Runtime:** 69 ms (beats 5.2%)
 
-**Memory:** 44.5 MB (beats 52.7%)
+**Memory:** 43.3 MB (beats 99.8%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 27, 2025
+**Submitted:** January 30, 2024
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1840891694/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1160597455/)
 
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-06*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*

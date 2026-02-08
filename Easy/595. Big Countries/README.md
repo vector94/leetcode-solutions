@@ -8,15 +8,15 @@
 
 **Language:** MS SQL Server
 
-**Runtime:** 514 ms (beats 90.0%)
+**Runtime:** 2622 ms (beats 5.0%)
 
 **Memory:** 0B (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 04, 2025
+**Submitted:** December 02, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/big-countries/submissions/1596161366/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/big-countries/submissions/853321383/)
 
 ---
 

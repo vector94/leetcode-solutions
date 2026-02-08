@@ -6,17 +6,17 @@
 
 **Topics:** Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting
 
-**Language:** C#
+**Language:** C++
 
-**Runtime:** 56 ms (beats 12.2%)
+**Runtime:** 39 ms (beats 5.0%)
 
-**Memory:** 43.8 MB (beats 98.0%)
+**Memory:** 8.1 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 07, 2024
+**Submitted:** December 03, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/submissions/1168328741/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/submissions/853713102/)
 
 ---
 

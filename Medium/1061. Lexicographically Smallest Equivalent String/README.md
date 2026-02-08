@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 0 ms (beats 100.0%)
+**Runtime:** 13 ms (beats 28.3%)
 
-**Memory:** 8.9 MB (beats 75.4%)
+**Memory:** 9.3 MB (beats 42.7%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** June 05, 2025
+**Submitted:** January 14, 2023
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/submissions/1654300776/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/submissions/877808189/)
 
 ---
 

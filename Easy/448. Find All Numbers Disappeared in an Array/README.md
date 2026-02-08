@@ -8,15 +8,15 @@
 
 **Language:** C++
 
-**Runtime:** 94 ms (beats 5.3%)
+**Runtime:** 171 ms (beats 5.3%)
 
-**Memory:** 66.2 MB (beats 10.4%)
+**Memory:** 33.7 MB (beats 100.0%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 27, 2025
+**Submitted:** December 02, 2022
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/1840882777/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/853245740/)
 
 ---
 
