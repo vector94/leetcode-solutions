@@ -8,16 +8,16 @@
 
 **Language:** C++
 
-**Runtime:** 136 ms (beats 5.4%)
+**Runtime:** 89 ms (beats 5.4%)
 
-**Memory:** 28.6 MB (beats 6.7%)
+**Memory:** 33.5 MB (beats 5.5%)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** February 20, 2022
+**Submitted:** July 06, 2026
 
-**Submission:** [View on LeetCode](https://leetcode.com/problems/remove-covered-intervals/submissions/644904815/)
+**Submission:** [View on LeetCode](https://leetcode.com/problems/remove-covered-intervals/submissions/2058463868/)
 
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-07-09*
