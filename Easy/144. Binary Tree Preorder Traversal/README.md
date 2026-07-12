@@ -6,18 +6,28 @@
 
 **Topics:** Stack, Tree, Depth-First Search, Binary Tree
 
-**Language:** C++
+## C#
+
+**Runtime:** 124 ms (beats 0.3%)
+
+**Memory:** 40.7 MB (beats 100.0%)
+
+**Submitted:** November 20, 2021
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/589869505/)
+
+## C++
 
 **Runtime:** 0 ms (beats 100.0%)
 
 **Memory:** 8.4 MB (beats 100.0%)
 
+**Submitted:** January 09, 2023
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/874447916/)
+
 **Author:** [vector94](https://leetcode.com/u/vector94/)
-
-**Submitted:** July 24, 2021
-
-**Submission:** [View on LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/527401621/)
 
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-07-12*

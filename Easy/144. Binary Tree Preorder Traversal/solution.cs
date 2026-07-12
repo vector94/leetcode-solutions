@@ -15,10 +15,13 @@ public class Solution {
     public IList<int> PreorderTraversal(TreeNode root) {
         List<int> result = new List<int> ();
         
-        Stack <TreeNode> myStack = new Stack<TreeNode> ();
+        if (root == null)   return result;
+
+        Stack<TreeNode> myStack = new Stack<TreeNode>();
+        
         TreeNode currentNode = root;
         
-        while (myStack.Count > 0 || currentNode != null){
+        while (currentNode != null || myStack.Count > 0){
             if (currentNode != null){
                 result.Add(currentNode.val);
                 myStack.Push(currentNode);

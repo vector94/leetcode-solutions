@@ -1,7 +1,7 @@
 class Solution {
 public:
     
-    void backtrack(long long &num, int &low, int &high, vector<int> &result){
+    void backtrack(int &num, int &low, int &high, vector<int> &result){
         if (num > high) return;
         
         if (low <= num && num <= high){
@@ -27,7 +27,7 @@ public:
     
     vector<int> sequentialDigits(int low, int high) {
         vector<int> result;
-        long long num = 0;
+        int num = 0;
         
         backtrack(num, low, high, result);
         

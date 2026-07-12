@@ -2,16 +2,20 @@ class Solution {
     vector<int> freq;
 public:
     string frequencySort(string s) {
-        freq.resize(300, 0);
+        unordered_map<char, int> freq;
+        vector<string> bucket(s.size() + 1, "");
         for (char ch : s){
             freq[ch]++;
         }
-        sort(s.begin(), s.end(), [&](char a, char b){
-            if (freq[a] == freq[b]){
-                return a < b;
+        for (auto it : freq){
+            bucket[it.second].append(it.second, it.first);
+        }
+        string result = "";
+        for (int i = s.size(); i >= 1; i--){
+            if (!bucket[i].empty()){
+                result += bucket[i];
             }
-            return freq[a] > freq[b];
-        });
-        return s;
+        }
+        return result;
     }
 };

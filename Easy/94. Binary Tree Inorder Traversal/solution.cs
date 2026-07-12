@@ -12,19 +12,26 @@
  * }
  */
 public class Solution {
-    
-    public void InorderTraversalHelper(TreeNode root, ref List<int> result){
-        if (root == null)   return;
-        InorderTraversalHelper(root.left, ref result);
-        //Console.Write(root.val + " ");
-        result.Add(root.val);
-        InorderTraversalHelper(root.right, ref result);
-    }
-    
     public IList<int> InorderTraversal(TreeNode root) {
         List<int> result = new List<int> ();
         
-        InorderTraversalHelper(root, ref result);
+        if (root == null)   return result;
+
+        Stack<TreeNode> myStack = new Stack<TreeNode>();
+        
+        TreeNode currentNode = root;
+        
+        while (currentNode != null || myStack.Count > 0){
+            if (currentNode != null){
+                myStack.Push(currentNode);
+                currentNode = currentNode.left;
+            }
+            else{
+                currentNode = myStack.Pop();
+                result.Add(currentNode.val);
+                currentNode = currentNode.right;
+            }
+        }
         
         return result;
     }

@@ -1327,5 +1327,535 @@
     "2065100174",
     "2065094280"
   ],
-  "LastSyncUtc": "2026-07-12T14:42:52.518157Z"
+  "LastSyncUtc": "2026-07-12T15:02:46.822594Z",
+  "ProblemSolutions": {
+    "rank-transform-of-an-array": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2065100174,
+        "Timestamp": 1783867314,
+        "RuntimeDisplay": "125 ms",
+        "RuntimePercentile": 5.2168000000000125,
+        "MemoryDisplay": "40.4 MB",
+        "MemoryPercentile": 8.521299999999933
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2065094280,
+        "Timestamp": 1783866944,
+        "RuntimeDisplay": "17 ms",
+        "RuntimePercentile": 98.6569,
+        "MemoryDisplay": "39.8 MB",
+        "MemoryPercentile": 83.39439999999998
+      }
+    ],
+    "how-many-numbers-are-smaller-than-the-current-number": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 1840880020,
+        "Timestamp": 1764233331,
+        "RuntimeDisplay": "4 ms",
+        "RuntimePercentile": 60.484300000000005,
+        "MemoryDisplay": "14.5 MB",
+        "MemoryPercentile": 19.43749999999998
+      },
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 659527562,
+        "Timestamp": 1647223917,
+        "RuntimeDisplay": "283 ms",
+        "RuntimePercentile": 5.342200000000042,
+        "MemoryDisplay": "13.9 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "binary-tree-preorder-traversal": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 874447916,
+        "Timestamp": 1673233408,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "8.4 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 589869505,
+        "Timestamp": 1637387320,
+        "RuntimeDisplay": "124 ms",
+        "RuntimePercentile": 0.2543999999999928,
+        "MemoryDisplay": "40.7 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "binary-tree-postorder-traversal": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 609532816,
+        "Timestamp": 1640834153,
+        "RuntimeDisplay": "3 ms",
+        "RuntimePercentile": 3.653099999999999,
+        "MemoryDisplay": "8.4 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 589876357,
+        "Timestamp": 1637388448,
+        "RuntimeDisplay": "120 ms",
+        "RuntimePercentile": 0.5633999999999959,
+        "MemoryDisplay": "40.6 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "majority-element": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1176180910,
+        "Timestamp": 1708014658,
+        "RuntimeDisplay": "117 ms",
+        "RuntimePercentile": 5.184600000000021,
+        "MemoryDisplay": "48.5 MB",
+        "MemoryPercentile": 5.092499999999968
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 645645278,
+        "Timestamp": 1645406503,
+        "RuntimeDisplay": "28 ms",
+        "RuntimePercentile": 7.278399999999996,
+        "MemoryDisplay": "19.6 MB",
+        "MemoryPercentile": 99.96749999999999
+      }
+    ],
+    "valid-parentheses": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 659190808,
+        "Timestamp": 1647182540,
+        "RuntimeDisplay": "130 ms",
+        "RuntimePercentile": 5.056400000000005,
+        "MemoryDisplay": "36.5 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 453865638,
+        "Timestamp": 1612841496,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "6.1 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "reverse-linked-list": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 1209658570,
+        "Timestamp": 1710992436,
+        "RuntimeDisplay": "4 ms",
+        "RuntimePercentile": 0.9409999999999965,
+        "MemoryDisplay": "11.7 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 589866356,
+        "Timestamp": 1637386763,
+        "RuntimeDisplay": "80 ms",
+        "RuntimePercentile": 1.1102999999999976,
+        "MemoryDisplay": "38.4 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "merge-two-sorted-lists": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 655193297,
+        "Timestamp": 1646663147,
+        "RuntimeDisplay": "94 ms",
+        "RuntimePercentile": 2.7231000000000054,
+        "MemoryDisplay": "38.3 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 588505913,
+        "Timestamp": 1637138205,
+        "RuntimeDisplay": "12 ms",
+        "RuntimePercentile": 0.6017999999999963,
+        "MemoryDisplay": "14.7 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "power-of-two": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1179416967,
+        "Timestamp": 1708313914,
+        "RuntimeDisplay": "39 ms",
+        "RuntimePercentile": 2.444999999999995,
+        "MemoryDisplay": "28.6 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 604714463,
+        "Timestamp": 1640048869,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "6 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "first-unique-character-in-a-string": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1166922953,
+        "Timestamp": 1707148509,
+        "RuntimeDisplay": "71 ms",
+        "RuntimePercentile": 5.05529999999997,
+        "MemoryDisplay": "46 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 587841838,
+        "Timestamp": 1637031185,
+        "RuntimeDisplay": "24 ms",
+        "RuntimePercentile": 11.947600000000008,
+        "MemoryDisplay": "10.5 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "set-mismatch": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 1834150076,
+        "Timestamp": 1763550757,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "26.3 MB",
+        "MemoryPercentile": 38.27319999999998
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1154829485,
+        "Timestamp": 1706032319,
+        "RuntimeDisplay": "166 ms",
+        "RuntimePercentile": 12.778199999999995,
+        "MemoryDisplay": "56.2 MB",
+        "MemoryPercentile": 37.889000000000024
+      }
+    ],
+    "leaf-similar-trees": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1141586063,
+        "Timestamp": 1704816294,
+        "RuntimeDisplay": "85 ms",
+        "RuntimePercentile": 1.9867000000000032,
+        "MemoryDisplay": "43 MB",
+        "MemoryPercentile": 98.6755
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 856387282,
+        "Timestamp": 1670465117,
+        "RuntimeDisplay": "11 ms",
+        "RuntimePercentile": 0.9616000000000036,
+        "MemoryDisplay": "12.7 MB",
+        "MemoryPercentile": 99.9709
+      }
+    ],
+    "range-sum-of-bst": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1140016870,
+        "Timestamp": 1704678592,
+        "RuntimeDisplay": "202 ms",
+        "RuntimePercentile": 3.875899999999996,
+        "MemoryDisplay": "60.2 MB",
+        "MemoryPercentile": 80.62000000000005
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 855870966,
+        "Timestamp": 1670380571,
+        "RuntimeDisplay": "156 ms",
+        "RuntimePercentile": 3.0463000000000067,
+        "MemoryDisplay": "64.7 MB",
+        "MemoryPercentile": 99.88
+      }
+    ],
+    "binary-tree-inorder-traversal": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 609134668,
+        "Timestamp": 1640781820,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "8.2 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 589869838,
+        "Timestamp": 1637387376,
+        "RuntimeDisplay": "132 ms",
+        "RuntimePercentile": 0.13410000000000344,
+        "MemoryDisplay": "40.9 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "construct-binary-tree-from-inorder-and-postorder-traversal": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 609130980,
+        "Timestamp": 1640781082,
+        "RuntimeDisplay": "12 ms",
+        "RuntimePercentile": 7.051100000000002,
+        "MemoryDisplay": "26.5 MB",
+        "MemoryPercentile": 99.95240000000001
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 590534700,
+        "Timestamp": 1637510094,
+        "RuntimeDisplay": "88 ms",
+        "RuntimePercentile": 5.389300000000001,
+        "MemoryDisplay": "39.9 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "longest-common-subsequence": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1156103084,
+        "Timestamp": 1706152594,
+        "RuntimeDisplay": "84 ms",
+        "RuntimePercentile": 8.013399999999994,
+        "MemoryDisplay": "42.3 MB",
+        "MemoryPercentile": 89.74360000000001
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 859969258,
+        "Timestamp": 1671074165,
+        "RuntimeDisplay": "32 ms",
+        "RuntimePercentile": 35.26859999999998,
+        "MemoryDisplay": "13.3 MB",
+        "MemoryPercentile": 82.05530000000002
+      }
+    ],
+    "sequential-digits": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1163546156,
+        "Timestamp": 1706845583,
+        "RuntimeDisplay": "67 ms",
+        "RuntimePercentile": 0,
+        "MemoryDisplay": "38 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 625669757,
+        "Timestamp": 1642903240,
+        "RuntimeDisplay": "4 ms",
+        "RuntimePercentile": 0,
+        "MemoryDisplay": "6.4 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "furthest-building-you-can-reach": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1177524238,
+        "Timestamp": 1708148625,
+        "RuntimeDisplay": "263 ms",
+        "RuntimePercentile": 5,
+        "MemoryDisplay": "68.9 MB",
+        "MemoryPercentile": 100
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 727593709,
+        "Timestamp": 1655816896,
+        "RuntimeDisplay": "126 ms",
+        "RuntimePercentile": 6.586099999999971,
+        "MemoryDisplay": "54.1 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "house-robber": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1154853405,
+        "Timestamp": 1706033728,
+        "RuntimeDisplay": "68 ms",
+        "RuntimePercentile": 1.1037999999999986,
+        "MemoryDisplay": "48.5 MB",
+        "MemoryPercentile": 10.044099999999986
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 595197397,
+        "Timestamp": 1638324621,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "7.6 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "lowest-common-ancestor-of-a-binary-search-tree": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 592002848,
+        "Timestamp": 1637761681,
+        "RuntimeDisplay": "56 ms",
+        "RuntimePercentile": 7.138899999999991,
+        "MemoryDisplay": "23.3 MB",
+        "MemoryPercentile": 91.53509999999999
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 589970722,
+        "Timestamp": 1637407667,
+        "RuntimeDisplay": "112 ms",
+        "RuntimePercentile": 24.705899999999975,
+        "MemoryDisplay": "43.6 MB",
+        "MemoryPercentile": 100
+      }
+    ],
+    "divide-array-into-arrays-with-max-difference": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 1667767241,
+        "Timestamp": 1750215743,
+        "RuntimeDisplay": "49 ms",
+        "RuntimePercentile": 60.4839,
+        "MemoryDisplay": "120.2 MB",
+        "MemoryPercentile": 49.35460000000002
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1162492558,
+        "Timestamp": 1706749357,
+        "RuntimeDisplay": "436 ms",
+        "RuntimePercentile": 7.692399999999991,
+        "MemoryDisplay": "131.5 MB",
+        "MemoryPercentile": 7.692399999999981
+      }
+    ],
+    "sort-characters-by-frequency": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1168328741,
+        "Timestamp": 1707270003,
+        "RuntimeDisplay": "56 ms",
+        "RuntimePercentile": 12.32910000000003,
+        "MemoryDisplay": "43.8 MB",
+        "MemoryPercentile": 99.5434
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 853716455,
+        "Timestamp": 1670042691,
+        "RuntimeDisplay": "43 ms",
+        "RuntimePercentile": 5.498599999999999,
+        "MemoryDisplay": "15.9 MB",
+        "MemoryPercentile": 11.671699999999992
+      }
+    ],
+    "group-anagrams": [
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1168322635,
+        "Timestamp": 1707269244,
+        "RuntimeDisplay": "164 ms",
+        "RuntimePercentile": 5.042000000000021,
+        "MemoryDisplay": "86.5 MB",
+        "MemoryPercentile": 5.702399999999965
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 600728187,
+        "Timestamp": 1639314490,
+        "RuntimeDisplay": "32 ms",
+        "RuntimePercentile": 19.46620000000002,
+        "MemoryDisplay": "20.8 MB",
+        "MemoryPercentile": 99.96480000000003
+      }
+    ],
+    "daily-temperatures": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 1841919611,
+        "Timestamp": 1764350182,
+        "RuntimeDisplay": "23 ms",
+        "RuntimePercentile": 51.65339999999998,
+        "MemoryDisplay": "107.2 MB",
+        "MemoryPercentile": 47.74260000000001
+      },
+      {
+        "LangName": "csharp",
+        "LangVerboseName": "C#",
+        "SubmissionId": 1161643410,
+        "Timestamp": 1706673888,
+        "RuntimeDisplay": "409 ms",
+        "RuntimePercentile": 5.02260000000001,
+        "MemoryDisplay": "79.2 MB",
+        "MemoryPercentile": 5.692200000000045
+      }
+    ]
+  }
 }

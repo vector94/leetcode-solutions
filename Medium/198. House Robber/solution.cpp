@@ -1,21 +1,15 @@
 class Solution {
 public:
-    
-    int robHelper(int index, vector<int> &nums, vector<int> &dp){
-        if (index >= nums.size())   return 0;
-        if (dp[index] != -1)    return dp[index];
-        
-        int result = nums[index] + robHelper(index + 2, nums, dp);
-        result = max(result, robHelper(index + 1, nums, dp));
-        
-        return dp[index] = result;
-    }
-    
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, -1);
+        int prev1 = 0;
+        int prev2 = nums[0];
+        for (int i = 1; i < n; i++){
+            int current = max(prev1 + nums[i], prev2);
+            prev1 = prev2;
+            prev2 = current;
+        }
         
-        return robHelper(0, nums, dp);
-        
+        return prev2;
     }
 };
