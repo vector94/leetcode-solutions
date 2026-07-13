@@ -26,8 +26,18 @@
 
 **Submission:** [View on LeetCode](https://leetcode.com/problems/sequential-digits/submissions/1163546156/)
 
+## Python3
+
+**Runtime:** 0 ms (beats 100.0%)
+
+**Memory:** 19.3 MB (beats 30.6%)
+
+**Submitted:** July 13, 2026
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/sequential-digits/submissions/2065826251/)
+
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-07-12*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-07-13*
