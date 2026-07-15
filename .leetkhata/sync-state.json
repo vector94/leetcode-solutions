@@ -1326,9 +1326,12 @@
     "2063348957",
     "2065100174",
     "2065094280",
-    "2065826251"
+    "2065826251",
+    "2068321050",
+    "2067767760",
+    "2067755315"
   ],
-  "LastSyncUtc": "2026-07-13T09:29:30.7411754Z",
+  "LastSyncUtc": "2026-07-15T08:12:35.5643933Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -1866,6 +1869,40 @@
         "RuntimePercentile": 5.02260000000001,
         "MemoryDisplay": "79.2 MB",
         "MemoryPercentile": 5.692200000000045
+      }
+    ],
+    "gcd-of-odd-and-even-sums": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2068321050,
+        "Timestamp": 1784102551,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.2 MB",
+        "MemoryPercentile": 85.77109999999999
+      }
+    ],
+    "find-the-number-of-subsequences-with-equal-gcd": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2067767760,
+        "Timestamp": 1784053412,
+        "RuntimeDisplay": "6538 ms",
+        "RuntimePercentile": 9.091899999999981,
+        "MemoryDisplay": "171.4 MB",
+        "MemoryPercentile": 36.363999999999976
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2067755315,
+        "Timestamp": 1784052857,
+        "RuntimeDisplay": "1062 ms",
+        "RuntimePercentile": 51.30279999999987,
+        "MemoryDisplay": "421.3 MB",
+        "MemoryPercentile": 5.216400000000007
       }
     ]
   }
