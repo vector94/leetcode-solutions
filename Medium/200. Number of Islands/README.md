@@ -6,18 +6,18 @@
 
 **Topics:** Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 
-**Language:** C++
+## Python3
 
-**Runtime:** 32 ms (beats 25.4%)
+**Runtime:** 247 ms (beats 48.7%)
 
-**Memory:** 12.4 MB (beats 100.0%)
+**Memory:** 21.5 MB (beats 72.3%)
+
+**Submitted:** August 20, 2026
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/number-of-islands/submissions/2114168441/)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** December 14, 2021
-
-**Submission:** [View on LeetCode](https://leetcode.com/problems/number-of-islands/submissions/601529917/)
-
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-08-20*
