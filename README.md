@@ -4,7 +4,7 @@ This repository contains all my accepted LeetCode submissions, organized by diff
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 287 |
+| Easy       | 289 |
 | Medium     | 420 |
 | Hard       | 91 |
 

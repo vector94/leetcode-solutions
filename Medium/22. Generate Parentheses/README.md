@@ -4,20 +4,20 @@
 
 **Problem:** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
-**Topics:** String, Dynamic Programming, Backtracking
+**Topics:** String, Dynamic Programming, Backtracking, Bracket Sequences
 
-**Language:** C++
+## Python3
 
-**Runtime:** 8 ms (beats 9.1%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 16 MB (beats 31.5%)
+**Memory:** 19.4 MB (beats 35.2%)
+
+**Submitted:** August 20, 2026
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/generate-parentheses/submissions/2114479643/)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 02, 2021
-
-**Submission:** [View on LeetCode](https://leetcode.com/problems/generate-parentheses/submissions/580806773/)
-
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-08-26*

@@ -1342,9 +1342,16 @@
     "2107082700",
     "2104085319",
     "2104083439",
-    "2102596430"
+    "2102596430",
+    "2119590134",
+    "2118204988",
+    "2116367573",
+    "2114480842",
+    "2114479643",
+    "2114478316",
+    "2114475666"
   ],
-  "LastSyncUtc": "2026-08-20T16:37:47.938654Z",
+  "LastSyncUtc": "2026-08-26T21:54:35.7181103Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2036,6 +2043,78 @@
         "RuntimePercentile": 100,
         "MemoryDisplay": "19.4 MB",
         "MemoryPercentile": 19.033199999999994
+      }
+    ],
+    "smallest-missing-multiple-of-k": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2119590134,
+        "Timestamp": 1787658195,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.3 MB",
+        "MemoryPercentile": 63.560500000000005
+      }
+    ],
+    "course-schedule": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2118204988,
+        "Timestamp": 1787560653,
+        "RuntimeDisplay": "7 ms",
+        "RuntimePercentile": 43.37580000000001,
+        "MemoryDisplay": "20.5 MB",
+        "MemoryPercentile": 53.201600000000006
+      }
+    ],
+    "check-divisibility-by-digit-sum-and-product": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2116367573,
+        "Timestamp": 1787416314,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.2 MB",
+        "MemoryPercentile": 62.392600000000016
+      }
+    ],
+    "best-time-to-buy-and-sell-stock": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2114480842,
+        "Timestamp": 1787264988,
+        "RuntimeDisplay": "59 ms",
+        "RuntimePercentile": 33.514999999999986,
+        "MemoryDisplay": "28.6 MB",
+        "MemoryPercentile": 76.10490000000003
+      }
+    ],
+    "generate-parentheses": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2114479643,
+        "Timestamp": 1787264756,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.4 MB",
+        "MemoryPercentile": 35.21870000000001
+      }
+    ],
+    "rotting-oranges": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2114475666,
+        "Timestamp": 1787263952,
+        "RuntimeDisplay": "11 ms",
+        "RuntimePercentile": 5.21430000000001,
+        "MemoryDisplay": "19.3 MB",
+        "MemoryPercentile": 41.528199999999984
       }
     ]
   }

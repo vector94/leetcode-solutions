@@ -4,20 +4,20 @@
 
 **Problem:** [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
-**Topics:** Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
+**Topics:** Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
 
-**Language:** C++
+## Python3
 
-**Runtime:** 16 ms (beats 9.8%)
+**Runtime:** 7 ms (beats 43.4%)
 
-**Memory:** 13.2 MB (beats 100.0%)
+**Memory:** 20.5 MB (beats 53.2%)
+
+**Submitted:** August 24, 2026
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/course-schedule/submissions/2118204988/)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** January 07, 2022
-
-**Submission:** [View on LeetCode](https://leetcode.com/problems/course-schedule/submissions/614832965/)
-
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-08-26*
