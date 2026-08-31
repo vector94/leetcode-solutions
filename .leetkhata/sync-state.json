@@ -1349,9 +1349,10 @@
     "2114480842",
     "2114479643",
     "2114478316",
-    "2114475666"
+    "2114475666",
+    "2125916744"
   ],
-  "LastSyncUtc": "2026-08-26T21:54:35.7181103Z",
+  "LastSyncUtc": "2026-08-31T12:56:14.8457632Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2115,6 +2116,18 @@
         "RuntimePercentile": 5.21430000000001,
         "MemoryDisplay": "19.3 MB",
         "MemoryPercentile": 41.528199999999984
+      }
+    ],
+    "find-the-minimum-and-maximum-number-of-nodes-between-critical-points": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2125916744,
+        "Timestamp": 1788167850,
+        "RuntimeDisplay": "86 ms",
+        "RuntimePercentile": 47.607099999999996,
+        "MemoryDisplay": "62.9 MB",
+        "MemoryPercentile": 93.19889999999998
       }
     ]
   }
