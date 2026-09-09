@@ -1353,9 +1353,10 @@
     "2125916744",
     "2128275975",
     "2130551011",
-    "2131589526"
+    "2131589526",
+    "2135072945"
   ],
-  "LastSyncUtc": "2026-09-06T10:25:45.8378565Z",
+  "LastSyncUtc": "2026-09-09T10:53:40.0065492Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2167,6 +2168,18 @@
         "RuntimePercentile": 13.21919999999982,
         "MemoryDisplay": "33 MB",
         "MemoryPercentile": 51.30439999999999
+      }
+    ],
+    "count-commas-in-range": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2135072945,
+        "Timestamp": 1788869649,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.4 MB",
+        "MemoryPercentile": 15.217400000000008
       }
     ]
   }
