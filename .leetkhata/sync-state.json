@@ -1354,9 +1354,11 @@
     "2128275975",
     "2130551011",
     "2131589526",
-    "2135072945"
+    "2135072945",
+    "2137329580",
+    "2136767423"
   ],
-  "LastSyncUtc": "2026-09-09T10:53:40.0065492Z",
+  "LastSyncUtc": "2026-09-10T10:48:56.3000231Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2180,6 +2182,30 @@
         "RuntimePercentile": 100,
         "MemoryDisplay": "19.4 MB",
         "MemoryPercentile": 15.217400000000008
+      }
+    ],
+    "count-nodes-equal-to-average-of-subtree": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2137329580,
+        "Timestamp": 1789033366,
+        "RuntimeDisplay": "58 ms",
+        "RuntimePercentile": 19.366799999999984,
+        "MemoryDisplay": "19.6 MB",
+        "MemoryPercentile": 69.4601
+      }
+    ],
+    "count-commas-in-range-ii": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2136767423,
+        "Timestamp": 1788980012,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.2 MB",
+        "MemoryPercentile": 47.3185
       }
     ]
   }
