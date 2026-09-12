@@ -1356,9 +1356,11 @@
     "2131589526",
     "2135072945",
     "2137329580",
-    "2136767423"
+    "2136767423",
+    "2138926396",
+    "2138921409"
   ],
-  "LastSyncUtc": "2026-09-10T10:48:56.3000231Z",
+  "LastSyncUtc": "2026-09-12T10:14:44.9807073Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2206,6 +2208,28 @@
         "RuntimePercentile": 100,
         "MemoryDisplay": "19.2 MB",
         "MemoryPercentile": 47.3185
+      }
+    ],
+    "unique-3-digit-even-numbers": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2138926396,
+        "Timestamp": 1789155408,
+        "RuntimeDisplay": "31 ms",
+        "RuntimePercentile": 36.84190000000003,
+        "MemoryDisplay": "19.4 MB",
+        "MemoryPercentile": 37.7194
+      },
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2138921409,
+        "Timestamp": 1789154923,
+        "RuntimeDisplay": "11 ms",
+        "RuntimePercentile": 42.3322,
+        "MemoryDisplay": "30.7 MB",
+        "MemoryPercentile": 75.53879999999998
       }
     ]
   }
