@@ -1358,9 +1358,10 @@
     "2137329580",
     "2136767423",
     "2138926396",
-    "2138921409"
+    "2138921409",
+    "2141770511"
   ],
-  "LastSyncUtc": "2026-09-12T10:14:44.9807073Z",
+  "LastSyncUtc": "2026-09-15T11:16:16.841579Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2230,6 +2231,18 @@
         "RuntimePercentile": 42.3322,
         "MemoryDisplay": "30.7 MB",
         "MemoryPercentile": 75.53879999999998
+      }
+    ],
+    "rectangle-overlap": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2141770511,
+        "Timestamp": 1789403547,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.3 MB",
+        "MemoryPercentile": 58.4816
       }
     ]
   }
