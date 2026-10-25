@@ -1360,9 +1360,12 @@
     "2138926396",
     "2138921409",
     "2141770511",
-    "2146851923"
+    "2146851923",
+    "2181589653",
+    "2156120970",
+    "2147631934"
   ],
-  "LastSyncUtc": "2026-09-19T16:53:35.3746729Z",
+  "LastSyncUtc": "2026-10-25T17:24:11.740039Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2256,6 +2259,42 @@
         "RuntimePercentile": 100,
         "MemoryDisplay": "19.3 MB",
         "MemoryPercentile": 49.3333
+      }
+    ],
+    "number-of-closed-islands": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2181589653,
+        "Timestamp": 1792948457,
+        "RuntimeDisplay": "15 ms",
+        "RuntimePercentile": 75.075,
+        "MemoryDisplay": "19.5 MB",
+        "MemoryPercentile": 98.2732
+      }
+    ],
+    "maximum-nesting-depth-of-the-parentheses": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2156120970,
+        "Timestamp": 1790608807,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.2 MB",
+        "MemoryPercentile": 48.80059999999999
+      }
+    ],
+    "reverse-degree-of-a-string": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2147631934,
+        "Timestamp": 1789904385,
+        "RuntimeDisplay": "5 ms",
+        "RuntimePercentile": 83.45739999999999,
+        "MemoryDisplay": "19.3 MB",
+        "MemoryPercentile": 56.38899999999999
       }
     ]
   }
