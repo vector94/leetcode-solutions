@@ -1363,9 +1363,10 @@
     "2146851923",
     "2181589653",
     "2156120970",
-    "2147631934"
+    "2147631934",
+    "2183449997"
   ],
-  "LastSyncUtc": "2026-10-25T17:24:11.740039Z",
+  "LastSyncUtc": "2026-10-28T12:16:46.1531842Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2295,6 +2296,18 @@
         "RuntimePercentile": 83.45739999999999,
         "MemoryDisplay": "19.3 MB",
         "MemoryPercentile": 56.38899999999999
+      }
+    ],
+    "create-grid-with-exactly-one-path": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2183449997,
+        "Timestamp": 1793136020,
+        "RuntimeDisplay": "5 ms",
+        "RuntimePercentile": 16.1703,
+        "MemoryDisplay": "19.3 MB",
+        "MemoryPercentile": 63.40429999999999
       }
     ]
   }
