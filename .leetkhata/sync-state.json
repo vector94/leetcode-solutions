@@ -1364,9 +1364,10 @@
     "2181589653",
     "2156120970",
     "2147631934",
-    "2183449997"
+    "2183449997",
+    "2187828091"
   ],
-  "LastSyncUtc": "2026-10-28T12:16:46.1531842Z",
+  "LastSyncUtc": "2026-11-02T14:57:05.9274429Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2308,6 +2309,18 @@
         "RuntimePercentile": 16.1703,
         "MemoryDisplay": "19.3 MB",
         "MemoryPercentile": 63.40429999999999
+      }
+    ],
+    "minimum-moves-to-equal-array-elements-ii": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2187828091,
+        "Timestamp": 1793630422,
+        "RuntimeDisplay": "1 ms",
+        "RuntimePercentile": 42.8397,
+        "MemoryDisplay": "15.6 MB",
+        "MemoryPercentile": 79.9512
       }
     ]
   }
