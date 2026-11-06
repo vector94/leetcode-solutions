@@ -1365,9 +1365,10 @@
     "2156120970",
     "2147631934",
     "2183449997",
-    "2187828091"
+    "2187828091",
+    "2190200440"
   ],
-  "LastSyncUtc": "2026-11-02T14:57:05.9274429Z",
+  "LastSyncUtc": "2026-11-06T13:51:36.1963559Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2321,6 +2322,18 @@
         "RuntimePercentile": 42.8397,
         "MemoryDisplay": "15.6 MB",
         "MemoryPercentile": 79.9512
+      }
+    ],
+    "find-the-distance-value-between-two-arrays": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2190200440,
+        "Timestamp": 1793896149,
+        "RuntimeDisplay": "25 ms",
+        "RuntimePercentile": 26.286800000000003,
+        "MemoryDisplay": "19.2 MB",
+        "MemoryPercentile": 88.71860000000001
       }
     ]
   }
