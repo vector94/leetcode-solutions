@@ -1368,9 +1368,11 @@
     "2187828091",
     "2190200440",
     "2190919406",
-    "2190915189"
+    "2190915189",
+    "2191854514",
+    "2191290668"
   ],
-  "LastSyncUtc": "2026-11-07T12:35:51.3957289Z",
+  "LastSyncUtc": "2026-11-08T12:53:33.0659079Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2348,6 +2350,30 @@
         "RuntimePercentile": 23.27560000000014,
         "MemoryDisplay": "71.1 MB",
         "MemoryPercentile": 21.5519
+      }
+    ],
+    "count-servers-that-communicate": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2191854514,
+        "Timestamp": 1794131655,
+        "RuntimeDisplay": "16 ms",
+        "RuntimePercentile": 13.167200000000003,
+        "MemoryDisplay": "25.9 MB",
+        "MemoryPercentile": 98.75450000000001
+      }
+    ],
+    "process-tasks-using-servers": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2191290668,
+        "Timestamp": 1794058722,
+        "RuntimeDisplay": "589 ms",
+        "RuntimePercentile": 68.84260000000013,
+        "MemoryDisplay": "65.2 MB",
+        "MemoryPercentile": 49.85120000000006
       }
     ]
   }
