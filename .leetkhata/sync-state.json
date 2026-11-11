@@ -1370,9 +1370,15 @@
     "2190919406",
     "2190915189",
     "2191854514",
-    "2191290668"
+    "2191290668",
+    "2193125829",
+    "2193124135",
+    "2193109202",
+    "2193108927",
+    "2193093641",
+    "2192693022"
   ],
-  "LastSyncUtc": "2026-11-08T12:53:33.0659079Z",
+  "LastSyncUtc": "2026-11-11T13:42:04.1864355Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2374,6 +2380,66 @@
         "RuntimePercentile": 68.84260000000013,
         "MemoryDisplay": "65.2 MB",
         "MemoryPercentile": 49.85120000000006
+      }
+    ],
+    "minimum-moves-to-equal-array-elements-iii": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2193125829,
+        "Timestamp": 1794310244,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "31.4 MB",
+        "MemoryPercentile": 82.9396
+      }
+    ],
+    "minimum-moves-to-equal-array-elements": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2193124135,
+        "Timestamp": 1794310035,
+        "RuntimeDisplay": "2 ms",
+        "RuntimePercentile": 17.1301,
+        "MemoryDisplay": "32.1 MB",
+        "MemoryPercentile": 23.356200000000044
+      }
+    ],
+    "largest-rectangle-in-histogram": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2193109202,
+        "Timestamp": 1794308238,
+        "RuntimeDisplay": "13 ms",
+        "RuntimePercentile": 91.66590000000001,
+        "MemoryDisplay": "88.2 MB",
+        "MemoryPercentile": 10.527499999999904
+      }
+    ],
+    "climbing-stairs-ii": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2193093641,
+        "Timestamp": 1794306380,
+        "RuntimeDisplay": "56 ms",
+        "RuntimePercentile": 8.904299999999996,
+        "MemoryDisplay": "188.5 MB",
+        "MemoryPercentile": 13.355199999999975
+      }
+    ],
+    "find-servers-that-handled-most-number-of-requests": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2192693022,
+        "Timestamp": 1794248494,
+        "RuntimeDisplay": "289 ms",
+        "RuntimePercentile": 5.0472000000002755,
+        "MemoryDisplay": "128 MB",
+        "MemoryPercentile": 8.43760000000033
       }
     ]
   }

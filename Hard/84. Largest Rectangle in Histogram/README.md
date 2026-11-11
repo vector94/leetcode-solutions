@@ -4,20 +4,20 @@
 
 **Problem:** [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
-**Topics:** Array, Stack, Monotonic Stack
+**Topics:** Array, Stack, Monotonic Stack, Range Minimum/Maximum Query
 
-**Language:** C++
+## C++
 
-**Runtime:** 136 ms (beats 5.0%)
+**Runtime:** 13 ms (beats 91.7%)
 
-**Memory:** 61.6 MB (beats 100.0%)
+**Memory:** 88.2 MB (beats 10.5%)
+
+**Submitted:** November 10, 2026
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2193109202/)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 30, 2021
-
-**Submission:** [View on LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/594917856/)
-
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-11-11*
