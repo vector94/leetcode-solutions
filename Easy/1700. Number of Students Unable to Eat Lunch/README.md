@@ -6,18 +6,18 @@
 
 **Topics:** Array, Stack, Queue, Simulation
 
-**Language:** C++
+## Python3
 
-**Runtime:** 5 ms (beats 1.6%)
+**Runtime:** 0 ms (beats 100.0%)
 
-**Memory:** 10.7 MB (beats 100.0%)
+**Memory:** 19.1 MB (beats 93.1%)
+
+**Submitted:** November 17, 2026
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/2197833679/)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** April 08, 2024
-
-**Submission:** [View on LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1227013120/)
-
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-11-17*

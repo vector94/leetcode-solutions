@@ -1376,9 +1376,11 @@
     "2193109202",
     "2193108927",
     "2193093641",
-    "2192693022"
+    "2192693022",
+    "2197833679",
+    "2197469228"
   ],
-  "LastSyncUtc": "2026-11-11T13:42:04.1864355Z",
+  "LastSyncUtc": "2026-11-17T15:37:25.6063284Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2440,6 +2442,30 @@
         "RuntimePercentile": 5.0472000000002755,
         "MemoryDisplay": "128 MB",
         "MemoryPercentile": 8.43760000000033
+      }
+    ],
+    "number-of-students-unable-to-eat-lunch": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2197833679,
+        "Timestamp": 1794900058,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "19.1 MB",
+        "MemoryPercentile": 93.0652
+      }
+    ],
+    "calculate-digit-sum-of-a-string": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2197469228,
+        "Timestamp": 1794848692,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "8.9 MB",
+        "MemoryPercentile": 86.25430000000003
       }
     ]
   }
