@@ -1378,9 +1378,11 @@
     "2193093641",
     "2192693022",
     "2197833679",
-    "2197469228"
+    "2197469228",
+    "2199288730",
+    "2198802923"
   ],
-  "LastSyncUtc": "2026-11-17T15:37:25.6063284Z",
+  "LastSyncUtc": "2026-11-19T15:22:06.7235074Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2466,6 +2468,30 @@
         "RuntimePercentile": 100,
         "MemoryDisplay": "8.9 MB",
         "MemoryPercentile": 86.25430000000003
+      }
+    ],
+    "minimum-score-by-changing-two-elements": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2199288730,
+        "Timestamp": 1795085851,
+        "RuntimeDisplay": "13 ms",
+        "RuntimePercentile": 84.97419999999998,
+        "MemoryDisplay": "37.8 MB",
+        "MemoryPercentile": 88.60109999999999
+      }
+    ],
+    "minimum-number-of-changes-to-make-binary-string-beautiful": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2198802923,
+        "Timestamp": 1795018416,
+        "RuntimeDisplay": "1 ms",
+        "RuntimePercentile": 83.5962,
+        "MemoryDisplay": "13.6 MB",
+        "MemoryPercentile": 75.0788
       }
     ]
   }
