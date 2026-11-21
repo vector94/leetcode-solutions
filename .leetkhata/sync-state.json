@@ -1380,9 +1380,10 @@
     "2197833679",
     "2197469228",
     "2199288730",
-    "2198802923"
+    "2198802923",
+    "2200499677"
   ],
-  "LastSyncUtc": "2026-11-19T15:22:06.7235074Z",
+  "LastSyncUtc": "2026-11-21T14:20:35.8574321Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2492,6 +2493,18 @@
         "RuntimePercentile": 83.5962,
         "MemoryDisplay": "13.6 MB",
         "MemoryPercentile": 75.0788
+      }
+    ],
+    "find-subtree-sizes-after-changes": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2200499677,
+        "Timestamp": 1795258752,
+        "RuntimeDisplay": "1365 ms",
+        "RuntimePercentile": 27.849400000000074,
+        "MemoryDisplay": "454.1 MB",
+        "MemoryPercentile": 11.393800000000077
       }
     ]
   }
