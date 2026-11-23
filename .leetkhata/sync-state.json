@@ -1382,9 +1382,11 @@
     "2199288730",
     "2198802923",
     "2200499677",
-    "2201181425"
+    "2201181425",
+    "2201822575",
+    "2201461734"
   ],
-  "LastSyncUtc": "2026-11-22T14:11:59.4636306Z",
+  "LastSyncUtc": "2026-11-23T17:33:46.1571005Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2518,6 +2520,30 @@
         "RuntimePercentile": 100,
         "MemoryDisplay": "19.3 MB",
         "MemoryPercentile": 30.1098
+      }
+    ],
+    "product-of-the-last-k-numbers": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2201822575,
+        "Timestamp": 1795426616,
+        "RuntimeDisplay": "105 ms",
+        "RuntimePercentile": 35.018400000000156,
+        "MemoryDisplay": "100.9 MB",
+        "MemoryPercentile": 6.030800000000017
+      }
+    ],
+    "time-needed-to-buy-tickets": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2201461734,
+        "Timestamp": 1795371866,
+        "RuntimeDisplay": "10 ms",
+        "RuntimePercentile": 39.322199999999995,
+        "MemoryDisplay": "19.1 MB",
+        "MemoryPercentile": 90.30609999999999
       }
     ]
   }

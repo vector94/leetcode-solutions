@@ -6,18 +6,18 @@
 
 **Topics:** Array, Queue, Simulation
 
-**Language:** C++
+## Python3
 
-**Runtime:** 3 ms (beats 19.1%)
+**Runtime:** 10 ms (beats 39.3%)
 
-**Memory:** 7.6 MB (beats 100.0%)
+**Memory:** 19.1 MB (beats 90.3%)
+
+**Submitted:** November 22, 2026
+
+**Submission:** [View on LeetCode](https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/2201461734/)
 
 **Author:** [vector94](https://leetcode.com/u/vector94/)
 
-**Submitted:** November 14, 2021
-
-**Submission:** [View on LeetCode](https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/586794092/)
-
 ---
 
-*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-02-08*
+*Synced by [LeetKhata](https://github.com/mdasifiqbalahmed/LeetKhata) on 2026-11-23*
