@@ -1384,9 +1384,11 @@
     "2200499677",
     "2201181425",
     "2201822575",
-    "2201461734"
+    "2201461734",
+    "2203343637",
+    "2202492370"
   ],
-  "LastSyncUtc": "2026-11-23T17:33:46.1571005Z",
+  "LastSyncUtc": "2026-11-25T17:41:58.979706Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2544,6 +2546,30 @@
         "RuntimePercentile": 39.322199999999995,
         "MemoryDisplay": "19.1 MB",
         "MemoryPercentile": 90.30609999999999
+      }
+    ],
+    "binary-tree-paths": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2203343637,
+        "Timestamp": 1795623477,
+        "RuntimeDisplay": "2 ms",
+        "RuntimePercentile": 57.88250000000001,
+        "MemoryDisplay": "17 MB",
+        "MemoryPercentile": 90.6131
+      }
+    ],
+    "maximum-subarray-with-equal-products": [
+      {
+        "LangName": "python3",
+        "LangVerboseName": "Python3",
+        "SubmissionId": 2202492370,
+        "Timestamp": 1795513467,
+        "RuntimeDisplay": "434 ms",
+        "RuntimePercentile": 9.127200000000036,
+        "MemoryDisplay": "19.4 MB",
+        "MemoryPercentile": 28.968100000000007
       }
     ]
   }
