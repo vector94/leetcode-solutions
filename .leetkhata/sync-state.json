@@ -1386,9 +1386,10 @@
     "2201822575",
     "2201461734",
     "2203343637",
-    "2202492370"
+    "2202492370",
+    "2203769981"
   ],
-  "LastSyncUtc": "2026-11-25T17:41:58.979706Z",
+  "LastSyncUtc": "2026-11-26T16:31:21.0937977Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2570,6 +2571,18 @@
         "RuntimePercentile": 9.127200000000036,
         "MemoryDisplay": "19.4 MB",
         "MemoryPercentile": 28.968100000000007
+      }
+    ],
+    "stone-removal-game": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2203769981,
+        "Timestamp": 1795682366,
+        "RuntimeDisplay": "0 ms",
+        "RuntimePercentile": 100,
+        "MemoryDisplay": "7.6 MB",
+        "MemoryPercentile": 72.3404
       }
     ]
   }
