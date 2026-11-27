@@ -1387,9 +1387,10 @@
     "2201461734",
     "2203343637",
     "2202492370",
-    "2203769981"
+    "2203769981",
+    "2204427097"
   ],
-  "LastSyncUtc": "2026-11-26T16:31:21.0937977Z",
+  "LastSyncUtc": "2026-11-27T16:16:58.3158058Z",
   "ProblemSolutions": {
     "rank-transform-of-an-array": [
       {
@@ -2583,6 +2584,18 @@
         "RuntimePercentile": 100,
         "MemoryDisplay": "7.6 MB",
         "MemoryPercentile": 72.3404
+      }
+    ],
+    "maximum-number-of-items-from-sale-i": [
+      {
+        "LangName": "cpp",
+        "LangVerboseName": "C\u002B\u002B",
+        "SubmissionId": 2204427097,
+        "Timestamp": 1795767372,
+        "RuntimeDisplay": "272 ms",
+        "RuntimePercentile": 42.611799999999945,
+        "MemoryDisplay": "133.6 MB",
+        "MemoryPercentile": 12.498900000000017
       }
     ]
   }
